@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filippo Ferroni/ Site Title"
+title                    : "Filippo Ferroni"
 title_separator          : "-"
 name                     : &name "Filippo Ferroni"
 description              : &description "personal description"
@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
- #talks:
- #   output: true
- #   permalink: /:collection/:path/
+ talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
