@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Empirical Macro Toolbox"
+permalink: /EMT/
+author_profile: true
+redirect_from: 
+- /resume
+---
+
+{% include base_path %}
+
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
 auto;text-align:center;line-height:normal" align="center"><font size="2" face="verdana"><span style="" lang="EN-US">Working Papers and works in progress:</span><span style="" lang="EN-US"></span></font></p>
 
