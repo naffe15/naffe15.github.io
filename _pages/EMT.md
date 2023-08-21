@@ -1,10 +1,12 @@
 ---
+layout: archive
+title: "Empirical Macro Toolbox"
 permalink: /EMT/
-title: "Empirical MAcro Toolbox"
 author_profile: true
-redirect_from: 
-  - /EMT/
-  - /EMT.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 TBA
