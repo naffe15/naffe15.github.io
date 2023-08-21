@@ -19,7 +19,7 @@ Working Papers and works in progress
 ****
 Publications
 * Mind the Gap! Stylized dynamic facts and structural models (2023), American Economic Journal: Macroeconomics, vol. 14(4), pages 104-135, October, with F. Canova <a href="https://ideas.repec.org/p/cpr/ceprdp/13948.html"> link.
-* The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association with with C. Cantore and M. Leon-Ledesma.<a href="https://ideas.repec.org/p/cpr/ceprdp/13551.html">
+* The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association with with C. Cantore and M. Leon-Ledesma.<a href="https://ideas.repec.org/p/cpr/ceprdp/13551.html">link
 * Delphic and Odyssean monetary policy shocks: Evidence from the euro-area (2021), Journal of Monetary Economics, vol. 117(C), pages 816-832; with P. Andrade. <a href="https://ideas.repec.org/p/sur/surrec/1216.html">link
 
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
