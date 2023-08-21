@@ -3,12 +3,12 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
     url: /cv/
 
   - title: "Empirical Macro Toolbox"
     url: /EMT/
 
+  - title: "Teaching"
+    url: /teaching/    
+    
