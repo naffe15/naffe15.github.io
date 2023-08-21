@@ -11,7 +11,7 @@ redirect_from:
 
 ****
 Working Papers and works in progress
-* <span style="FONT-FAMILY: verdana"><a href="https://www.chicagofed.org/publications/working-papers/2023/2023-28"><font color="black">Identification Using Higher-Order Moments Restrictions(2023) with P. Andrade and L. Melosi.
+* <span style="FONT-FAMILY: verdana"><a href="https://www.chicagofed.org/publications/working-papers/2023/2023-28"><font color="black"><Identification Using Higher-Order Moments Restrictions> (2023) with P. Andrade and L. Melosi.
 
 <p><font size="2" face="Andale Mono"><span style="FONT-FAMILY: verdana"><a href="https://www.chicagofed.org/publications/working-papers/2022/2022-30"><font color="black">A tail of labor supply and a tale of monetary policy</font></a></span><font color="black"><font color="black"><font size="2" face="Andale Mono"><span style="FONT-FAMILY: verdana"> (2022) with C. Cantore, H. Muntaz and A. Theopilopoulou.
 </span></span></font></font></font></font></p><font size="2" face="Andale Mono"><font color="black">
