@@ -78,3 +78,25 @@ Spanish Economic Association</span></a><span style="color: black;" lang="EN-US">
 
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal"><font size="2" face="verdana">&nbsp;</font></p>
+
+
+<p align="center" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style="">Other publications:</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><span style="float: none; background-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"></span><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2023/476"><span style="color:windowtext"> How Tight Is U.S. Monetary Policy?,</span></a>&nbsp;(2019), Chicago Fed Letter, No. 476, March 2023. (with Jonas D. M. Fisher and Leonardo Melosi)</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><span style="float: none; background-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"></span><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/472"><span style="color:windowtext">What Is the Impact of Monetary Policy on Households Desired Labor Supply?,</span></a>&nbsp;(2019), Chicago Fed Letter, No. 472, September 2022. (with Cristiano Cantore, Haroon Mumtaz and Angeliki Theophilopoulou)</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><span style="float: none; background-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"></span><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/466"><span style="color:windowtext">How Interconnected Are Cryptocurrencies and What Does This Mean for Risk Measurement?,</span></a>&nbsp;(2019), Chicago Fed Letter, No. 466, March 2022.</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><span style="float: none; background-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"></span><a href="https://www.chicagofed.org/publications/economic-perspectives/2019/2"><span style="color:windowtext">The Macroeconomic Effects of the 2018 Bipartisan Budget Act,</span></a>&nbsp;(2019), Economic Perspectives, Federal Reserve Bank of Chicago, issue 2, pages 2-12. (with J. Campbell, J. Fisher and L. Melosi)</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><span style="float: none; background-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"></span><a href="https://voxeu.org/article/monetary-policy-and-labour-share"><span style="color:windowtext"> The missing link: Monetary policy and the labour share,</span></a>&nbsp VoXEU, CEPR Policy Portal, March 27 2019. (with C. Cantore and M Leon-Ledesma)</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><span style="font-size: 12pt;"><font face="verdana">&nbsp;</font></span></p>
