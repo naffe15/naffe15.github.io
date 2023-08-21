@@ -100,3 +100,16 @@ line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><s
 
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal"><span style="font-size: 12pt;"><font face="verdana">&nbsp;</font></span></p>
+
+<p align="center" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style="">Old Working Papers:</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style="">Domestic and Global Inflation
+(2015), with B. Mojon</span><span lang="EN-US" style=""></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><font face="verdana"><font size="2"><a href="http://www.filippoferroni.com/DT296.pdf"><span lang="EN-US" style="color: windowtext;">Did the tax polity mitigate the US business cycles ?</span></a> (2010) WP BdF n. 296.</font><span style="font-size: 12pt;"></span></font></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><span style="font-size: 12pt;"><font face="verdana">&nbsp;</font></span></p>
