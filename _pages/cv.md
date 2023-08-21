@@ -11,15 +11,13 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01/2020-present: Senior Economist, Federal Reserve Bank of Chicago, Research Department, Chicago, USA.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2016-12/2019: Economist, Federal Reserve Bank of Chicago, Research Department, Chicago, USA
+
+* 02/2016–09/2016: Scientific Officer, European Commission, Joint Research Center, Economic and Financial Unit, Ispra (VA), Italy
+
+* 09/2009–01/2016 Economist, Banque de France, Monetary and Financial Studies Division, Paris, France
 
 Education
 ======
