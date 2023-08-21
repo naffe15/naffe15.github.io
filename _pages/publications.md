@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Empirical Macro Toolbox"
-permalink: /EMT/
+title: "Research"
+permalink: /publications/
 author_profile: true
 redirect_from: 
 - /resume
