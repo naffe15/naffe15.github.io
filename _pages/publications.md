@@ -17,7 +17,7 @@ Working Papers and works in progress
 * A hitchhiker guide to empirical macro models (2020) with F. Canova. <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf"><font color="black">[paper]
 
 ****
-Publications
+Publications:
 * Mind the Gap! Stylized dynamic facts and structural models (2023), American Economic Journal: Macroeconomics, vol. 14(4), pages 104-135, October, with F. Canova. <a href="https://ideas.repec.org/a/aea/aejmac/v14y2022i4p104-35.html">[paper]
 * The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association with with C. Cantore and M. Leon-Ledesma <a href="https://ideas.repec.org/a/oup/jeurec/v19y2021i3p1592-1620..html">[paper]
 * Delphic and Odyssean monetary policy shocks: Evidence from the euro-area (2021), Journal of Monetary Economics, vol. 117(C), pages 816-832; with P. Andrade. <a href="https://ideas.repec.org/a/eee/moneco/v117y2021icp816-832.html">[paper]
@@ -25,20 +25,16 @@ Publications
 * Detecting and Analyzing the Effects of Time-Varying Parameters in DSGE Models (2019), International Economic Review, vol. 61(1), pages 105-125, February; with F. Canova and C. Matthes. <a href="https://ideas.repec.org/a/wly/iecrev/v61y2020i1p105-125.html">[paper]
 * Comparing post-crisis dynamics across Euro Area countries with the Global-Multi country model (2019) Economic Modelling, Elsevier, vol. 81(C), pages 242-273; with A. Albonico, L. Cales, R. Cardani, O. Croitorov, M. Giovannini, S. Hohberger, B. Pataracchia, F. Pericoli, M. Ratto, R.  Raciborski, W. Roeger, L. Vogel. <a href="https://ideas.repec.org/a/eee/ecmode/v81y2019icp242-273.html">[paper]. <a ref="https://github.com/naffe15/GlobalMultiCountryModel">[replication codes].
 * Selecting Structural Innovations in DSGE models (2019), Journal of Applied Econometrics, vol. 34(2), pages 205-220, March; with S. Grassi and M. Leon-Ledesma.<a href="https://ideas.repec.org/a/wly/japmet/v34y2019i2p205-220.html">[paper]. <a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publications/OnlineAppendix.pdf"> [appendix]
-* The Dynamics of Hours Worked and Technology (2017), Journal of Economic Dynamics and Control</span></a></span><span style="color: black;" lang="EN-US">, vol. 82(C), pages 67-82; with C. Cantore, M. Leon-Ledesma.
-* The Euro Area business cycles in turbulent times: convergence or decoupling? (2015), Applied Economics, Vol. 47; with B. Klaus.
-* Choosing the variables to estimate singular DSGE models (2014), Journal of Applied Econometrics, Vol. 29(7); with F. Canova and C. Matthes.
-* The dynamics of US inflation: can monetary policy explain the changes? (2012), Journal of Econometrics, Vol. 167, with F. Canova.
-* Trend agnostic one-step estimation of DSGE models (2011), The B.E. Journal of Macroeconomics, Vol 11, Issue 1 (Advances), Article 25.
-* Multiple filtering devices for the estimation of cyclical DSGE models (2011), Quantitative Economics, Volume 2, Issue 1; with F. Canova.
-* Comments on MEDEA: A DSGE model for the Spanish Economy (2010), Journal of the Spanish Economic Association, Volume 1, Numbers 1-2.
+* The Dynamics of Hours Worked and Technology (2017), Journal of Economic Dynamics and Control</span></a></span><span style="color: black;" lang="EN-US">, vol. 82(C), pages 67-82; with C. Cantore, M. Leon-Ledesma. <a href=""> [paper]
+* The Euro Area business cycles in turbulent times: convergence or decoupling? (2015), Applied Economics, Vol. 47; with B. Klaus. <a href="https://ideas.repec.org/a/taf/applec/v47y2015i34-35p3791-3815.html"> [paper]
+* Choosing the variables to estimate singular DSGE models (2014), Journal of Applied Econometrics, Vol. 29(7); with F. Canova and C. Matthes. <a href="https://ideas.repec.org/a/wly/japmet/v29y2014i7p1099-1117.html"> [paper]
+* The dynamics of US inflation: can monetary policy explain the changes? (2012), Journal of Econometrics, Vol. 167, with F. Canova. <a href="https://ideas.repec.org/a/eee/econom/v167y2012i1p47-60.html"> [paper]
+* Trend agnostic one-step estimation of DSGE models (2011), The B.E. Journal of Macroeconomics, Vol 11, Issue 1 (Advances), Article 25. <a href="https://ideas.repec.org/a/bpj/bejmac/v11y2011i1n25.html"> [paper]
+* Multiple filtering devices for the estimation of cyclical DSGE models (2011), Quantitative Economics, Volume 2, Issue 1; with F. Canova. <a href="https://ideas.repec.org/a/ecm/quante/v2y2011i1p73-98.html"> [paper]
+* Comments on MEDEA: A DSGE model for the Spanish Economy (2010), Journal of the Spanish Economic Association, Volume 1, Numbers 1-2. <a href="https://ideas.repec.org/a/spr/series/v1y2010i1p245-249.html"> [paper]
 
-<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal"><font size="2" face="verdana">&nbsp;</font></p>
-
-
-<p align="center" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;text-align:center;line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style="">Other publications:</span><span lang="EN-US" style=""></span></font></p>
+****
+Other publications:
 
 <p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal"><font size="2" face="verdana"><span lang="EN-US" style=""><span style="float: none; background-color: transparent; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"></span><a href="https://www.chicagofed.org/publications/chicago-fed-letter/2023/476"><span style="color:windowtext"> How Tight Is U.S. Monetary Policy?,</span></a>&nbsp;(2019), Chicago Fed Letter, No. 476, March 2023. (with Jonas D. M. Fisher and Leonardo Melosi)</span><span lang="EN-US" style=""></span></font></p>
