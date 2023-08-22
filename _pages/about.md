@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-I am a Senior Economist at the Federal Research Bank of Chciago. I am interested in Applied Macroeconomics, Applied Times Series and Monetary Economics.In this webpage you can find a sample of my research and source codes. 
+I am a Senior Economist at the Federal Research Bank of Chciago. I am interested in Applied Macroeconomics, Applied Times Series and Monetary Economics.
 
-
+In this webpage you can find a sample of my research and source codes. 
 
 The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Chiacgo or the Federal Reserve System.
