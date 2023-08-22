@@ -13,7 +13,7 @@ The empirical macro toolbox is a new package that contains MATLAB functions and 
 
 A hitchhiker guide to empirical macro models by Ferroni F. and Canova F. 
 
-<a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[most updated paper] 
+<a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[Go to Up-to-date Paper] 
 
 <a href="https://github.com/naffe15/BVAR_">[Go to Toolbox]
 
