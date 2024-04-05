@@ -13,11 +13,11 @@ redirect_from:
 Working Papers and works in progress
 * Identification Using Higher-Order Moments Restrictions (2023) with P. Andrade and L. Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2023/2023-28">[paper]
 * A tail of labor supply and a tale of monetary policy (2022) with C. Cantore, H. Muntaz and A. Theopilopoulou. <a href="https://www.chicagofed.org/publications/working-papers/2022/2022-30">[paper]
-* Unusual Shocks in Our Usual Models (2022) with  Jonas D. M. Fisher , Leonardo Melosi (under revision). <a href="https://www.chicagofed.org/publications/working-papers/2022/2022-39">[paper]
 * A hitchhiker guide to empirical macro models (2020) with F. Canova. <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[paper]
 
 ****
 Publications:
+* Unusual Shocks in Our Usual Models (2024), Journal of Monetary Economics, accepted with minor revisions, with Jonas D. M. Fisher , Leonardo Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2022/2022-39">[paper]
 * Mind the Gap! Stylized dynamic facts and structural models (2023), American Economic Journal: Macroeconomics, vol. 14(4), pages 104-135, October, with F. Canova. <a href="https://ideas.repec.org/a/aea/aejmac/v14y2022i4p104-35.html">[paper]
 * The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association with with C. Cantore and M. Leon-Ledesma <a href="https://ideas.repec.org/a/oup/jeurec/v19y2021i3p1592-1620..html">[paper]
 * Delphic and Odyssean monetary policy shocks: Evidence from the euro-area (2021), Journal of Monetary Economics, vol. 117(C), pages 816-832; with P. Andrade. <a href="https://ideas.repec.org/a/eee/moneco/v117y2021icp816-832.html">[paper]<a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publications/AF_MP_surprises_.xlsx"> [MP surprises]
