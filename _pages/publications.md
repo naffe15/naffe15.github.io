@@ -37,10 +37,10 @@ Publications:
 ****
 Other publications:
 
-* How Tight Is U.S. Monetary Policy? (2023), Chicago Fed Letter, No. 476, March 2023. (with Jonas D. M. Fisher and Leonardo Melosi) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2023/476">[paper]
-* What Is the Impact of Monetary Policy on Households Desired Labor Supply? (2022), Chicago Fed Letter, No. 472, September 2022. (with Cristiano Cantore, Haroon Mumtaz and Angeliki Theophilopoulou) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/472">[paper]
+* How Tight Is U.S. Monetary Policy? (2023), Chicago Fed Letter, No. 476, March 2023. (with J. D. M. Fisher and L. Melosi) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2023/476">[paper]
+* What Is the Impact of Monetary Policy on Households Desired Labor Supply? (2022), Chicago Fed Letter, No. 472, September 2022. (with C. Cantore, H. Mumtaz and A. Theophilopoulou) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/472">[paper]
 * How Interconnected Are Cryptocurrencies and What Does This Mean for Risk Measurement? (2019), Chicago Fed Letter, No. 466, March 2022. <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/466">[paper]
-* The Macroeconomic Effects of the 2018 Bipartisan Budget Act (2019), Economic Perspectives, Federal Reserve Bank of Chicago, issue 2, pages 2-12. (with J. Campbell, J. Fisher and L. Melosi) <a href="https://www.chicagofed.org/publications/economic-perspectives/2019/2">[paper]
+* The Macroeconomic Effects of the 2018 Bipartisan Budget Act (2019), Economic Perspectives, Federal Reserve Bank of Chicago, issue 2, pages 2-12. (with J. Campbell, J. D. M. Fisher and L. Melosi) <a href="https://www.chicagofed.org/publications/economic-perspectives/2019/2">[paper]
 * The missing link: Monetary policy and the labour share, (2019) VoXEU, CEPR Policy Portal, March 27 2019. (with C. Cantore and M Leon-Ledesma)<a href="https://voxeu.org/article/monetary-policy-and-labour-share"> [paper]
 
 
