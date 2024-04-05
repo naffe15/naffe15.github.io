@@ -17,9 +17,9 @@ Working Papers and works in progress
 
 ****
 Publications:
-* Unusual Shocks in Our Usual Models (2024), Journal of Monetary Economics, accepted with minor revisions, with Jonas D. M. Fisher , Leonardo Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2022/2022-39">[paper]
-* Mind the Gap! Stylized dynamic facts and structural models (2023), American Economic Journal: Macroeconomics, vol. 14(4), pages 104-135, October, with F. Canova. <a href="https://ideas.repec.org/a/aea/aejmac/v14y2022i4p104-35.html">[paper]
-* The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association with with C. Cantore and M. Leon-Ledesma <a href="https://ideas.repec.org/a/oup/jeurec/v19y2021i3p1592-1620..html">[paper]
+* Unusual Shocks in Our Usual Models (2024), Journal of Monetary Economics, accepted with minor revisions; with J. D. M. Fisher, L. Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2022/2022-39">[paper]
+* Mind the Gap! Stylized dynamic facts and structural models (2023), American Economic Journal: Macroeconomics, vol. 14(4), pages 104-135; October, with F. Canova. <a href="https://ideas.repec.org/a/aea/aejmac/v14y2022i4p104-35.html">[paper]
+* The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association, vol. 19(3), pages 1592-1620; with C. Cantore and M. Leon-Ledesma <a href="https://ideas.repec.org/a/oup/jeurec/v19y2021i3p1592-1620..html">[paper]
 * Delphic and Odyssean monetary policy shocks: Evidence from the euro-area (2021), Journal of Monetary Economics, vol. 117(C), pages 816-832; with P. Andrade. <a href="https://ideas.repec.org/a/eee/moneco/v117y2021icp816-832.html">[paper]<a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publications/AF_MP_surprises_.xlsx"> [MP surprises]
 * The limits of forward guidance (2019), Journal of Monetary Economics, vol. 108(C), pages 118-134; with J. Campbell, J. D. M. Fisher, L. Melosi. <a href="https://ideas.repec.org/a/eee/moneco/v108y2019icp118-134.html">[paper]
 * Detecting and Analyzing the Effects of Time-Varying Parameters in DSGE Models (2019), International Economic Review, vol. 61(1), pages 105-125, February; with F. Canova and C. Matthes. <a href="https://ideas.repec.org/a/wly/iecrev/v61y2020i1p105-125.html">[paper]
@@ -29,7 +29,7 @@ Publications:
 * The Dynamics of Hours Worked and Technology (2017), Journal of Economic Dynamics and Control, vol. 82(C), pages 67-82; with C. Cantore, M. Leon-Ledesma. <a href=""> [paper]
 * The Euro Area business cycles in turbulent times: convergence or decoupling? (2015), Applied Economics, Vol. 47; with B. Klaus. <a href="https://ideas.repec.org/a/taf/applec/v47y2015i34-35p3791-3815.html"> [paper]
 * Choosing the variables to estimate singular DSGE models (2014), Journal of Applied Econometrics, Vol. 29(7); with F. Canova and C. Matthes. <a href="https://ideas.repec.org/a/wly/japmet/v29y2014i7p1099-1117.html"> [paper]
-* The dynamics of US inflation: can monetary policy explain the changes? (2012), Journal of Econometrics, Vol. 167, with F. Canova. <a href="https://ideas.repec.org/a/eee/econom/v167y2012i1p47-60.html"> [paper]
+* The dynamics of US inflation: can monetary policy explain the changes? (2012), Journal of Econometrics, Vol. 167; with F. Canova. <a href="https://ideas.repec.org/a/eee/econom/v167y2012i1p47-60.html"> [paper]
 * Trend agnostic one-step estimation of DSGE models (2011), The B.E. Journal of Macroeconomics, Vol 11, Issue 1 (Advances), Article 25. <a href="https://ideas.repec.org/a/bpj/bejmac/v11y2011i1n25.html"> [paper]
 * Multiple filtering devices for the estimation of cyclical DSGE models (2011), Quantitative Economics, Volume 2, Issue 1; with F. Canova. <a href="https://ideas.repec.org/a/ecm/quante/v2y2011i1p73-98.html"> [paper]
 * Comments on MEDEA: A DSGE model for the Spanish Economy (2010), Journal of the Spanish Economic Association, Volume 1, Numbers 1-2. <a href="https://ideas.repec.org/a/spr/series/v1y2010i1p245-249.html"> [paper]
