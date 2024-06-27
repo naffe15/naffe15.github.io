@@ -11,7 +11,7 @@ redirect_from:
 
 ****
 Working Papers and works in progress
-* Identification Using Higher-Order Moments Restrictions (2023) with P. Andrade and L. Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2023/2023-28">[paper]<a href="https://www.dropbox.com/scl/fi/eysf5gnfdrvkm7arm64c8/slides-sedam.pdf?rlkey=h44tpq1c1n98v5ritdxxhx1w5&dl=0"> [slides]
+* Identification Using Higher-Order Moments Restrictions (2023) with P. Andrade and L. Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2023/2023-28">[paper] <a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publication/slides-sedam.pdf"> [slides]
 * A tail of labor supply and a tale of monetary policy (2022) with C. Cantore, H. Muntaz and A. Theopilopoulou. <a href="https://www.chicagofed.org/publications/working-papers/2022/2022-30">[paper]
 * A hitchhiker guide to empirical macro models (2020) with F. Canova. <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[paper]
 
