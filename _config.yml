@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Filippo Ferroni"
   avatar           : "profile.png"
-  bio              : "Senior Economist"
-  location         : "Chicago Fed"
+  bio              : "Professor"
+  location         : "Università di Bologna"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jCEX9RsAAAAJ&hl=it&oi=ao"
-  email            : "filippo.ferroni@chi.frb.org"
-  researchgate     :  "https://www.researchgate.net/profile/Filippo-Ferroni-2"
+  email            : "filippo.ferroni2@unibo.it"
+  researchgate     : "https://www.researchgate.net/profile/Filippo-Ferroni-2"
   uri              :
   bitbucket        :
   codepen          :
