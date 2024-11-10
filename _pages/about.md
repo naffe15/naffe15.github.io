@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am full Professor of Economics at the Department of Economic Science at Università di Bologna. I am interested in Empirical Macroeconomics, Applied Times Series and Monetary Economics.
+I am full Professor of Economics at the Department of Economics at Università di Bologna. I am interested in Empirical Macroeconomics, Applied Times Series and Monetary Economics.
 
 Prior to that, I was a senior economist on the macroeconomics team in the economic research department at the Federal Reserve Bank of Chicago where I am currently on leave. In that position, I provided research and analysis on macroeconomics and applied econometrics.
 
