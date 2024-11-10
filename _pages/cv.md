@@ -11,7 +11,8 @@ redirect_from:
 
 ****
 Work experience 
-* 01/2020-present: Senior Economist, Federal Reserve Bank of Chicago, Research Department, Chicago, USA.
+* 11/2024-: Professor of Economics, University of Bologna, Bologna, Italy
+* 01/2020-10/2024: Senior Economist, Federal Reserve Bank of Chicago, Research Department, Chicago, USA. (on leave)
 * 10/2016-12/2019: Economist, Federal Reserve Bank of Chicago, Research Department, Chicago, USA
 * 02/2016–09/2016: Scientific Officer, European Commission, Joint Research Center, Economic and Financial Unit, Ispra (VA), Italy
 * 09/2009–01/2016 Economist, Banque de France, Monetary and Financial Studies Division, Paris, France
