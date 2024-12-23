@@ -37,7 +37,7 @@ Publications:
 ****
 Other publications:
 
-* Inequality and Shocks to Firms' Pricing Decisions (2024), Economic Perspective, Federal Reserve Bank of Chicago, No. 6, November 2024. (with A. T. Villa) <a href="[https://www.chicagofed.org/publications/chicago-fed-letter/2023/476](https://www.chicagofed.org/publications/economic-perspectives/2024/6)">[paper]
+* Inequality and Shocks to Firms' Pricing Decisions (2024), Economic Perspective, Federal Reserve Bank of Chicago, No. 6, November 2024. (with A. T. Villa) <a href="https://www.chicagofed.org/publications/economic-perspectives/2024/6">[paper]
 * How Tight Is U.S. Monetary Policy? (2023), Chicago Fed Letter, No. 476, March 2023. (with J. D. M. Fisher and L. Melosi) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2023/476">[paper]
 * What Is the Impact of Monetary Policy on Households Desired Labor Supply? (2022), Chicago Fed Letter, No. 472, September 2022. (with C. Cantore, H. Mumtaz and A. Theophilopoulou) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/472">[paper]
 * How Interconnected Are Cryptocurrencies and What Does This Mean for Risk Measurement? (2019), Chicago Fed Letter, No. 466, March 2022. <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2022/466">[paper]
