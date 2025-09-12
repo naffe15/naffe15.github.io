@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+****
+Please visit my Unibo teaching <a href="https://www.unibo.it/sitoweb/filippo.ferroni2/teachings">[page]
 
 ****
 * Structural VARs, University of Surrey, PhD course (2017). 
