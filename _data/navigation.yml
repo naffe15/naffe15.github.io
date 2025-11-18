@@ -10,5 +10,8 @@ main:
     url: /EMT/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+    - title: "Blog"
+    url: /blog/  
     
