@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 A collection of posts written in Markdown.
-{% include base_path %}
-{% assign markdown_posts = site.posts | where_exp: "post", "post.path contains '.md'" %}
-{% for post in markdown_posts %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+{% assign single_post = site.posts | where: "path", "_posts/nowcast_report_17-Nov-2025.md" | first %}
+{% if single_post %}
+  {% include archive-single.html post=single_post %}
+{% endif %}
