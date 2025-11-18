@@ -7,4 +7,6 @@ author_profile: true
 
 A collection of nowcasts of Italian GDP growth.
 
-{% include nowcast_report_18-Nov-2025.md %}
+{% assign my_post = site.posts | where: "slug", "nowcast-report" | first %}
+{{ my_post.content }}
+
