@@ -5,10 +5,6 @@ permalink: /blog/
 author_profile: true
 ---
 
-A collection of posts written in Markdown.
+A collection of nowcasts of Italian GDP growth.
 
-
-{% assign single_post = site.posts | where: "path", "_posts/nowcast_report_17-Nov-2025.md" | first %}
-{% if single_post %}
-  {% include archive-single.html post=single_post %}
-{% endif %}
+{% posts nowcast_report_18-Nov-2025.md %}
