@@ -12,6 +12,8 @@ redirect_from:
 Please visit my Unibo teaching <a href="https://www.unibo.it/sitoweb/filippo.ferroni2/teachings">[page]
 
 ****
+* Macroeconomics, Università di Bologna, (2024-present)
+* International Economics, Università di Bologna, (2024-present)
 * Structural VARs, University of Surrey, PhD course (2017). 
 * Applied Econometrics, SciencePo, Master in Economics and Business (2015-2016).
 * Applied Econometrics, SciencePo, Master in Economics and Business (2014-2015).
