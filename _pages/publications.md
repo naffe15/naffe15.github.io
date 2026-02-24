@@ -18,7 +18,7 @@ Working Papers and works in progress
 
 ****
 Publications:
-* A tail of labor supply and a tale of monetary policy (2022), Journal of European Economic Association, conditionally accepted; with C. Cantore, H. Muntaz and A. Theopilopoulou. <a href="https://amsacta.unibo.it/id/eprint/8501/">[paper]
+* A tail of labor supply and a tale of monetary policy (2026), Journal of European Economic Association, conditionally accepted; with C. Cantore, H. Muntaz and A. Theopilopoulou. <a href="https://amsacta.unibo.it/id/eprint/8501/">[paper]
 * Unusual Shocks in Our Usual Models (2024), Journal of Monetary Economics, vol. 147, pages 1 - 16; with J. D. M. Fisher, L. Melosi. <a href="https://www.sciencedirect.com/science/article/pii/S0304393224000515">[paper]
 * Mind the Gap! Stylized dynamic facts and structural models (2023), American Economic Journal: Macroeconomics, vol. 14(4), pages 104-135; October, with F. Canova. <a href="https://ideas.repec.org/a/aea/aejmac/v14y2022i4p104-35.html">[paper]
 * The Missing Link: Monetary Policy and the Labor share (2022), Journal of European Economic Association, vol. 19(3), pages 1592-1620; with C. Cantore and M. Leon-Ledesma <a href="https://ideas.repec.org/a/oup/jeurec/v19y2021i3p1592-1620..html">[paper]
