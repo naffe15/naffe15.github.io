@@ -11,7 +11,7 @@ redirect_from:
 
 ****
 Working Papers and works in progress
-* One Fed, Many Voices: Coordinated Communication vs. Transparent Debate (2025) with M. Djourelova, L. Melosi, A. Villa. <a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publications/dfmv-2026.pdf">[paper]
+* One Fed, Many Voices: Coordinated Communication vs. Transparent Debate (2025) with M. Djourelova, L. Melosi, A. Villa. <a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publications/dfmv-2026.pdf.pdf">[paper]
 * Higher-Order Moment Inequality Restrictions for SVARs (2023) with P. Andrade and L. Melosi. <a href="https://www.chicagofed.org/publications/working-papers/2023/2023-28">[paper] <a href="https://github.com/naffe15/naffe15.github.io/blob/master/_publications/slides-nber-si+lm+pa.pdf"> [slides]
 * The Chicago Fed DSGE Model: Version 2 (2023), with Campbell, J.R., Fisher, J.D.M. and Melosi, L. <a href="https://www.chicagofed.org/publications/working-papers/2023/2023-36">[paper]
 * A hitchhiker guide to empirical macro models (2020) with F. Canova. <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[paper]
