@@ -15,5 +15,4 @@ Prior to that, I was a senior economist on the macroeconomics team in the econom
 
 Prior to joining the Fed, I was economist at the Banque de France and at the European Commission. I obtained a B.A. from Bocconi University, Milan (Italy), and an M.Sc. and a Ph.D. in economics from Universitat Pompeu Fabra, Barcelona (Spain).
 
-<a href="https://ideas.repec.org/top/top.person.all10.html">[IDEAS-Repec ranking]: top 2% authors worldwide (last 10 years publications).
-
+Top 2% authors worldwide (last 10 years publications) in <a href="https://ideas.repec.org/top/top.person.all10.html">[IDEAS-Repec ranking]
