@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: "IT Nowcast"
 permalink: /nowcast/
 author_profile: true
@@ -11,10 +11,8 @@ redirect_from:
 
 # Italy GDP Nowcast Report
 
-The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model following the approach of Schorfheide and Song (2015, JBES).
-
+The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model of Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the Empirical Macro Toolbox, discussed in Ferroni and Canova (2020).
-
 This page updates on Fridays on a weekly base.
 
 **Vintage date:** 30-Apr-2026
@@ -30,10 +28,6 @@ Latest nowcast based on vintage **30-Apr-2026**:
 - GDP log level (p50): `4.7149`
 
 ## 2. Trailing nowcast charts
-
-### Trailing nowcast and distribution – Log levels
-
-![Trailing nowcast and distribution – Log levels](combined_nowcast_loglevels_.png)
 
 ### Trailing nowcast and distribution – YoY growth
 
