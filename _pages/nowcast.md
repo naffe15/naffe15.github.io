@@ -1,22 +1,34 @@
 ---
+
 layout: compress
+
 title: "IT Nowcast"
+
 permalink: /nowcast/
+
 author_profile: true
+
 redirect_from: 
+
 - /resume
+
 ---
-{% include base_path %}
 
-# Italy GDP Nowcast Report
+ { # Italy GDP Nowcast Report
 
-**Vintage date:** 29-Apr-2026
+The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model following the approach of Schorfheide and Song (2015, JBES).
+
+The MFBVAR model is estimated using the Empirical Macro Toolbox, discussed in Ferroni and Canova (2020).
+
+This page updates on Fridays on a weekly base.
+
+**Vintage date:** 30-Apr-2026
 
 **Nowcast quarter:** 2026:I
 
 ## 1. Latest nowcast
 
-Latest nowcast based on vintage **29-Apr-2026**:
+Latest nowcast based on vintage **30-Apr-2026**:
 
 - YoY growth (%): `0.86`
 - QoQ growth (%): `0.37`
@@ -26,41 +38,39 @@ Latest nowcast based on vintage **29-Apr-2026**:
 
 ### Trailing nowcast and distribution – Log levels
 
-![Trailing nowcast and distribution – Log levels](combined_nowcast_loglevels_29-Apr-2026.png)
+![Trailing nowcast and distribution – Log levels](combined_nowcast_loglevels_.png)
 
 ### Trailing nowcast and distribution – YoY growth
 
-![Trailing nowcast and distribution – YoY growth](combined_nowcast_yoy_29-Apr-2026.png)
+![Trailing nowcast and distribution – YoY growth](combined_nowcast_yoy_.png)
 
 ### Trailing nowcast and distribution – QoQ growth
 
-![Trailing nowcast and distribution – QoQ growth](combined_nowcast_qoq_29-Apr-2026.png)
+![Trailing nowcast and distribution – QoQ growth](combined_nowcast_qoq_.png)
 
 ## 3. Trailing nowcast table
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
-| 29-Apr-2026 | 4.7149 | 0.9 | 0.4 |
 | 24-Apr-2026 | 4.7149 | 0.9 | 0.4 |
 | 17-Apr-2026 | 4.7142 | 0.8 | 0.3 |
 | 10-Apr-2026 | 4.7142 | 0.8 | 0.3 |
 | 03-Apr-2026 | 4.7143 | 0.8 | 0.3 |
 | 27-Mar-2026 | 4.7140 | 0.8 | 0.3 |
-| 20-Mar-2026 | 4.7140 | 0.8 | 0.3 |
 
 ## 4. Forecast charts
 
 ### GDP forecast – Log levels
 
-![GDP forecast – Log levels](forecast_loglevels_29-Apr-2026.png)
+![GDP forecast – Log levels](forecast_loglevels_.png)
 
 ### GDP forecast – YoY growth
 
-![GDP forecast – YoY growth](forecast_yoy_29-Apr-2026.png)
+![GDP forecast – YoY growth](forecast_yoy_.png)
 
 ### GDP forecast – QoQ growth
 
-![GDP forecast – QoQ growth](forecast_qoq_29-Apr-2026.png)
+![GDP forecast – QoQ growth](forecast_qoq_.png)
 
 ## 5. Interpretation of release values
 
@@ -92,11 +102,11 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 | 17-Apr-2026 | 24-Apr-2026 | IMP | 28-Feb-2026 | 10.81 | 3.44 |
 | 03-Apr-2026 | 10-Apr-2026 | IPI | 28-Feb-2026 | 4.54 | 0.11 |
 | 03-Apr-2026 | 10-Apr-2026 | IPIDE | 28-Feb-2026 | 4.52 | -0.11 |
-| 27-Mar-2026 | 03-Apr-2026 | ConsumerConf | 31-Mar-2026 | -20.00 | -4.90 |
-| 27-Mar-2026 | 03-Apr-2026 | IndustrialConf | 31-Mar-2026 | -5.80 | 0.50 |
+| 27-Mar-2026 | 03-Apr-2026 | ConsumerConf | 31-Mar-2026 | -20.00 | -5.00 |
+| 27-Mar-2026 | 03-Apr-2026 | IndustrialConf | 31-Mar-2026 | -5.80 | 0.40 |
 | 27-Mar-2026 | 03-Apr-2026 | EURIBOR1Y | 31-Mar-2026 | 2.57 | 0.34 |
 | 27-Mar-2026 | 03-Apr-2026 | Retail | 28-Feb-2026 | 4.58 | 0.00 |
-| 27-Mar-2026 | 03-Apr-2026 | UNR | 28-Feb-2026 | 5.30 | 0.10 |
+| 27-Mar-2026 | 03-Apr-2026 | UNR | 28-Feb-2026 | 5.30 | 0.20 |
 
 ### 6B. Value changes
 
@@ -104,7 +114,6 @@ Below we list only the changes in the already published data between consecutive
 
 | From vintage | To vintage | Series | Observation date | Old value | New value | Revision |
 |--------------|------------|--------|------------------|----------:|----------:|---------:|
-| 24-Apr-2026 | 29-Apr-2026 | EURIBOR1Y | 31-Jan-2026 | 2.2453 | 2.2451 | -0.0002 |
 | 17-Apr-2026 | 24-Apr-2026 | EXP | 31-Jan-2026 | 10.8850 | 10.8878 | 0.0028 |
 | 17-Apr-2026 | 24-Apr-2026 | IMP | 31-Jan-2026 | 10.7706 | 10.7792 | 0.0087 |
 | 17-Apr-2026 | 24-Apr-2026 | EXP | 31-Dec-2025 | 10.8857 | 10.8867 | 0.0010 |
@@ -141,50 +150,6 @@ Below we list only the changes in the already published data between consecutive
 
 ### Per-series figures
 
-#### Retail
-
-![Data coverage for Retail](data_Retail_29-Apr-2026.png)
-
-#### UNR
-
-![Data coverage for UNR](data_UNR_29-Apr-2026.png)
-
-#### ConsumerConf
-
-![Data coverage for ConsumerConf](data_ConsumerConf_29-Apr-2026.png)
-
-#### IndustrialConf
-
-![Data coverage for IndustrialConf](data_IndustrialConf_29-Apr-2026.png)
-
-#### IPI
-
-![Data coverage for IPI](data_IPI_29-Apr-2026.png)
-
-#### IPI-DE
-
-![Data coverage for IPI-DE](data_IPI-DE_29-Apr-2026.png)
-
-#### HICP
-
-![Data coverage for HICP](data_HICP_29-Apr-2026.png)
-
-#### EURIBOR-1Y
-
-![Data coverage for EURIBOR-1Y](data_EURIBOR-1Y_29-Apr-2026.png)
-
-#### EXP
-
-![Data coverage for EXP](data_EXP_29-Apr-2026.png)
-
-#### IMP
-
-![Data coverage for IMP](data_IMP_29-Apr-2026.png)
-
-#### RGDP
-
-![Data coverage for RGDP](data_RGDP_29-Apr-2026.png)
-
 ---
 
-Report automatically generated on 29-Apr-2026 08:54:24.
+Report automatically generated on 30-Apr-2026 11:32:10.
