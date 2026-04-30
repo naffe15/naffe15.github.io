@@ -9,7 +9,7 @@ redirect_from:
 ## Italy GDP Nowcast Report
 
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
-The MFBVAR model is estimated using the Empirical Macro Toolbox, discussed in Ferroni and Canova (2020).
+The MF-BVAR model is estimated using the Empirical Macro Toolbox, discussed in Ferroni and Canova (2020).
 This page updates on Fridays on a weekly base.
 
 **Vintage date:** 24-Apr-2026
