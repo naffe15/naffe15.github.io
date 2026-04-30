@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "IT Nowcast"
 permalink: /nowcast/
 author_profile: true
