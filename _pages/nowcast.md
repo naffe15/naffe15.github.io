@@ -1,3 +1,10 @@
+---
+layout: nowcast
+title: "IT Nowcast"
+permalink: /nowcast/
+author_profile: true
+---
+
 # Italy GDP Nowcast Report
 
 **Vintage date:** 29-Apr-2026
