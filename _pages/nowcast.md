@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 title: "IT Nowcast"
 permalink: /nowcast/
 author_profile: true
