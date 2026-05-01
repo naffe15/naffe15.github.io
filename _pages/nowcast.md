@@ -11,19 +11,19 @@ This page updates on Fridays on a weekly base.
 ## Italy GDP Nowcast Report
 
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
-The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">[Empirical Macro Toolbox], see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[Ferroni and Canova (2020)].
+The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 24-Apr-2026
+**Vintage date:** 01-May-2026
 
-**Nowcast quarter:** 2026:I
+**Nowcast quarter:** 2026:II
 
 ## 1. Latest nowcast
 
-Latest nowcast based on vintage **24-Apr-2026**:
+Latest nowcast based on vintage **01-May-2026**:
 
-- YoY growth (%): `0.86`
-- QoQ growth (%): `0.37`
-- GDP log level (p50): `4.7149`
+- YoY growth (%): `0.77`
+- QoQ growth (%): `0.06`
+- GDP log level (p50): `4.7139`
 
 ## 2. Trailing nowcast charts
 
@@ -39,11 +39,11 @@ Latest nowcast based on vintage **24-Apr-2026**:
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
-| 24-Apr-2026 | 4.7149 | 0.9 | 0.4 |
-| 17-Apr-2026 | 4.7142 | 0.8 | 0.3 |
-| 10-Apr-2026 | 4.7142 | 0.8 | 0.3 |
-| 03-Apr-2026 | 4.7143 | 0.8 | 0.3 |
-| 27-Mar-2026 | 4.7140 | 0.8 | 0.3 |
+| 01-May-2026 | 4.7139 | 0.8 | 0.1 |
+| 24-Apr-2026 | 4.7170 | 1.1 | 0.2 |
+| 17-Apr-2026 | 4.7152 | 0.9 | 0.1 |
+| 10-Apr-2026 | 4.7157 | 0.9 | 0.1 |
+| 03-Apr-2026 | 4.7156 | 0.9 | 0.1 |
 
 ## 4. Forecast charts
 
@@ -85,15 +85,11 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 
 | From vintage | To vintage | Series | Observation date | New value | Release value |
 |--------------|------------|--------|------------------|----------:|--------------:|
-| 17-Apr-2026 | 24-Apr-2026 | EXP | 28-Feb-2026 | 10.91 | 2.54 |
-| 17-Apr-2026 | 24-Apr-2026 | IMP | 28-Feb-2026 | 10.81 | 3.44 |
-| 03-Apr-2026 | 10-Apr-2026 | IPI | 28-Feb-2026 | 4.54 | 0.11 |
-| 03-Apr-2026 | 10-Apr-2026 | IPIDE | 28-Feb-2026 | 4.52 | -0.11 |
-| 27-Mar-2026 | 03-Apr-2026 | ConsumerConf | 31-Mar-2026 | -20.00 | -5.00 |
-| 27-Mar-2026 | 03-Apr-2026 | IndustrialConf | 31-Mar-2026 | -5.80 | 0.40 |
-| 27-Mar-2026 | 03-Apr-2026 | EURIBOR1Y | 31-Mar-2026 | 2.57 | 0.34 |
-| 27-Mar-2026 | 03-Apr-2026 | Retail | 28-Feb-2026 | 4.58 | 0.00 |
-| 27-Mar-2026 | 03-Apr-2026 | UNR | 28-Feb-2026 | 5.30 | 0.20 |
+| 24-Apr-2026 | 01-May-2026 | ConsumerConf | 30-Apr-2026 | -23.90 | -3.80 |
+| 24-Apr-2026 | 01-May-2026 | IndustrialConf | 30-Apr-2026 | -6.90 | -0.90 |
+| 24-Apr-2026 | 01-May-2026 | EURIBOR1Y | 30-Apr-2026 | 2.75 | 0.18 |
+| 24-Apr-2026 | 01-May-2026 | UNR | 31-Mar-2026 | 5.20 | -0.20 |
+| 24-Apr-2026 | 01-May-2026 | RGDP | 31-Mar-2026 | 4.71 | NaN |
 
 ### 6B. Value changes
 
@@ -101,21 +97,8 @@ Below we list only the changes in the already published data between consecutive
 
 | From vintage | To vintage | Series | Observation date | Old value | New value | Revision |
 |--------------|------------|--------|------------------|----------:|----------:|---------:|
-| 17-Apr-2026 | 24-Apr-2026 | EXP | 31-Jan-2026 | 10.8850 | 10.8878 | 0.0028 |
-| 17-Apr-2026 | 24-Apr-2026 | IMP | 31-Jan-2026 | 10.7706 | 10.7792 | 0.0087 |
-| 17-Apr-2026 | 24-Apr-2026 | EXP | 31-Dec-2025 | 10.8857 | 10.8867 | 0.0010 |
-| 17-Apr-2026 | 24-Apr-2026 | IMP | 31-Dec-2025 | 10.7833 | 10.7885 | 0.0052 |
-| 03-Apr-2026 | 10-Apr-2026 | IPIDE | 31-Jan-2026 | 4.5031 | 4.5196 | 0.0165 |
-| 03-Apr-2026 | 10-Apr-2026 | IPIDE | 31-Dec-2025 | 4.5163 | 4.5142 | -0.0022 |
-| 27-Mar-2026 | 03-Apr-2026 | ConsumerConf | 28-Feb-2026 | -14.9000 | -15.1000 | -0.2000 |
-| 27-Mar-2026 | 03-Apr-2026 | IndustrialConf | 28-Feb-2026 | -6.5000 | -6.3000 | 0.2000 |
-| 27-Mar-2026 | 03-Apr-2026 | Retail | 31-Jan-2026 | 4.5809 | 4.5819 | 0.0010 |
-| 27-Mar-2026 | 03-Apr-2026 | UNR | 31-Jan-2026 | 5.1000 | 5.2000 | 0.1000 |
-| 27-Mar-2026 | 03-Apr-2026 | ConsumerConf | 31-Jan-2026 | -15.4000 | -15.6000 | -0.2000 |
-| 27-Mar-2026 | 03-Apr-2026 | IndustrialConf | 31-Jan-2026 | -5.9000 | -5.8000 | 0.1000 |
-| 27-Mar-2026 | 03-Apr-2026 | Retail | 31-Dec-2025 | 4.5788 | 4.5799 | 0.0010 |
-| 27-Mar-2026 | 03-Apr-2026 | UNR | 31-Dec-2025 | 5.5000 | 5.6000 | 0.1000 |
-| 27-Mar-2026 | 03-Apr-2026 | ConsumerConf | 31-Dec-2025 | -16.4000 | -16.5000 | -0.1000 |
+| 24-Apr-2026 | 01-May-2026 | ConsumerConf | 31-Mar-2026 | -20.0000 | -20.1000 | -0.1000 |
+| 24-Apr-2026 | 01-May-2026 | IndustrialConf | 31-Mar-2026 | -5.8000 | -6.0000 | -0.2000 |
 
 ## 7. Dataset
 
@@ -183,4 +166,4 @@ Below we list only the changes in the already published data between consecutive
 
 ---
 
-Report automatically generated on 30-Apr-2026 17:31:02.
+Report automatically generated on 01-May-2026 20:55:03.
