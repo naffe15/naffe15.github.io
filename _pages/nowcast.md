@@ -21,11 +21,11 @@ The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR
 
 ## 1. Latest nowcast
 
-Latest nowcast based on vintage **04-May-2026**:
+Latest nowcast (median, 20 and 50 percentiles) based on vintage **04-May-2026**:
 
-- YoY growth (%): `0.77`
-- QoQ growth (%): `0.06`
-- GDP log level (p50): `4.7139`
+- YoY growth (%): `0.77` [`0.50`,`1.00`]
+- QoQ growth (%): `0.06` [`-0.21`,`0.29`]
+- GDP log level: `4.7139` [`4.71`,`4.72`]
 
 ## 2. Trailing nowcast charts
 
@@ -50,17 +50,9 @@ Latest nowcast based on vintage **04-May-2026**:
 
 ## 4. Forecast charts
 
-### GDP forecast – Log levels
+### GDP short run forecast
 
-![GDP forecast – Log levels](forecast_loglevels_.png)
-
-### GDP forecast – YoY growth
-
-![GDP forecast – YoY growth](forecast_yoy_.png)
-
-### GDP forecast – QoQ growth
-
-![GDP forecast – QoQ growth](forecast_qoq_.png)
+![GDP forecast – YoY and QoQ growth rate](forecast_combined_.png)
 
 ## 5. Interpretation of release values
 
@@ -123,4 +115,4 @@ Below we list only the changes in the already published data between consecutive
 
 ---
 
-Report automatically generated on 04-May-2026 16:18:49.
+Report automatically generated on 04-May-2026 22:00:34.
