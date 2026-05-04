@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "IT Nowcast"
+title: "IT Now"
 permalink: /nowcast/
 author_profile: true
 redirect_from: 
@@ -13,13 +13,13 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 01-May-2026
+**Vintage date:** 04-May-2026
 
 **Nowcast quarter:** 2026:II
 
 ## 1. Latest nowcast
 
-Latest nowcast based on vintage **01-May-2026**:
+Latest nowcast based on vintage **04-May-2026**:
 
 - YoY growth (%): `0.77`
 - QoQ growth (%): `0.06`
@@ -39,6 +39,7 @@ Latest nowcast based on vintage **01-May-2026**:
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
+| 04-May-2026 | 4.7139 | 0.8 | 0.1 |
 | 01-May-2026 | 4.7139 | 0.8 | 0.1 |
 | 24-Apr-2026 | 4.7170 | 1.1 | 0.2 |
 | 17-Apr-2026 | 4.7152 | 0.9 | 0.1 |
@@ -118,52 +119,6 @@ Below we list only the changes in the already published data between consecutive
 | IMP | Imports from World, SA, monthly. | M | ISTAT |
 | RGDP | Real GDP, SA, chain‑linked (quarterly). | Q | EUROSTAT |
 
-### Per-series figures
-
-#### Retail
-
-![Data coverage for Retail](data_Retail.png)
-
-#### UNR
-
-![Data coverage for UNR](data_UNR.png)
-
-#### ConsumerConf
-
-![Data coverage for ConsumerConf](data_ConsumerConf.png)
-
-#### IndustrialConf
-
-![Data coverage for IndustrialConf](data_IndustrialConf.png)
-
-#### IPI
-
-![Data coverage for IPI](data_IPI.png)
-
-#### IPI-DE
-
-![Data coverage for IPI-DE](data_IPI-DE.png)
-
-#### HICP
-
-![Data coverage for HICP](data_HICP.png)
-
-#### EURIBOR-1Y
-
-![Data coverage for EURIBOR-1Y](data_EURIBOR-1Y.png)
-
-#### EXP
-
-![Data coverage for EXP](data_EXP.png)
-
-#### IMP
-
-![Data coverage for IMP](data_IMP.png)
-
-#### RGDP
-
-![Data coverage for RGDP](data_RGDP.png)
-
 ---
 
-Report automatically generated on 01-May-2026 20:55:03.
+Report automatically generated on 04-May-2026 14:45:42.
