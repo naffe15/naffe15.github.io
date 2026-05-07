@@ -13,19 +13,19 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 04-May-2026
+**Vintage date:** 07-May-2026
 
 **Nowcast quarter:** 2026:II
 
-**Summary:** Italy’s Q2‑2026 GDP nowcast stands at 0.77% YoY and 0.06% QoQ (vintage 04-May-2026). Versus the prior vintage (01-May), the nowcast is unchanged (0.0pp on both) amid no new releases. The previous update incorporated weaker consumer and industrial confidence (-3.8 and -0.9 points), a higher 1Y Euribor (+0.18pp), and a lower unemployment rate (-0.2pp).
+**Summary:** Italy's Q2-2026 GDP nowcast is 1.02% YoY and 0.31% QoQ (vintage 07-May), up from 0.8% and 0.1% on 01-May. Revisions are +0.22pp YoY and +0.21pp QoQ. The only new data since the prior vintage were March retail sales, which fell 0.10% m/m.
 
 ## 1. Latest nowcast
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **04-May-2026**:
+Latest nowcast (median, 20 and 80 percentiles) based on vintage **07-May-2026**:
 
-- YoY growth (%): `0.77` [`0.50`,`1.00`]
-- QoQ growth (%): `0.06` [`-0.21`,`0.29`]
-- GDP log level: `4.7139` [`4.7113`,`4.7163`]
+- YoY growth (%): `1.02` [`0.81`,`1.21`]
+- QoQ growth (%): `0.31` [`0.10`,`0.50`]
+- GDP log level: `4.7165` [`4.7144`,`4.7184`]
 
 ## 2. Trailing nowcast charts
 
@@ -41,7 +41,7 @@ Latest nowcast (median, 20 and 80 percentiles) based on vintage **04-May-2026**:
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
-| 04-May-2026 | 4.7139 | 0.8 | 0.1 |
+| 07-May-2026 | 4.7165 | 1.0 | 0.3 |
 | 01-May-2026 | 4.7139 | 0.8 | 0.1 |
 | 24-Apr-2026 | 4.7170 | 1.1 | 0.2 |
 | 17-Apr-2026 | 4.7152 | 0.9 | 0.1 |
@@ -80,6 +80,7 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 
 | From vintage | To vintage | Series | Observation date | New value | Release value |
 |--------------|------------|--------|------------------|----------:|--------------:|
+| 01-May-2026 | 07-May-2026 | Retail | 31-Mar-2026 | 4.58 | -0.10 |
 | 24-Apr-2026 | 01-May-2026 | ConsumerConf | 30-Apr-2026 | -23.90 | -3.80 |
 | 24-Apr-2026 | 01-May-2026 | IndustrialConf | 30-Apr-2026 | -6.90 | -0.90 |
 | 24-Apr-2026 | 01-May-2026 | EURIBOR1Y | 30-Apr-2026 | 2.75 | 0.18 |
@@ -113,6 +114,10 @@ Below we list only the changes in the already published data between consecutive
 | IMP | Imports from World, SA, monthly. | M | ISTAT |
 | RGDP | Real GDP, SA, chain‑linked (quarterly). | Q | EUROSTAT |
 
+## 8. Previous Quarter Nowcast
+
+![Previous Quarter Nowcast – YoY and QoQ growth rate](final_nowcast_.png)
+
 ---
 
-Report automatically generated on 04-May-2026 22:15:34.
+Report automatically generated on 07-May-2026 16:00:40.
