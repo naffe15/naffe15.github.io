@@ -17,7 +17,7 @@ The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR
 
 **Nowcast quarter:** 2026:II
 
-**Summary:** Italy’s 2026 Q2 GDP nowcast is 1.02% YoY and 0.31% QoQ (08-May vintage). Versus 01-May, that’s an upward revision of +0.22pp YoY and +0.21pp QoQ. The only new data this week was March retail sales (-0.10% m/m)t.
+**Summary:** Italy’s 2026 Q2 GDP nowcast is 1.02% YoY and 0.31% QoQ (08-May vintage). Versus 01-May, that’s an upward revision of +0.22pp YoY and +0.21pp QoQ. The only new data this week was March retail sales (-0.10% m/m).
 
 ## 1. Latest nowcast
 
@@ -122,4 +122,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 08-May-2026 12:39:22.
+Report automatically generated on 08-May-2026 12:44:39.
