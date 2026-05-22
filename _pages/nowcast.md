@@ -13,19 +13,19 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 15-May-2026
+**Vintage date:** 22-May-2026
 
 **Nowcast quarter:** 2026:II
 
-**Summary:** Italy’s Q2 2026 GDP nowcast is 1.13% YoY and 0.42% QoQ, about +0.1pp higher than the 8-May vintage (1.0% YoY, 0.3% QoQ). The modest upgrade was driven by a stronger March industrial production reading in Italy (+0.74% m/m), partly offset by weaker German IPI (-1.21% m/m).
+**Summary:** Italy’s Q2-2026 GDP nowcast is 1.30% YoY and 0.58% QoQ. This marks an upward revision of about 0.2 pp from the 15-May vintage (YoY 1.1%, QoQ 0.4%). The upgrade likely reflects strong March trade data, with exports up 4.04% m/m and imports up 4.69% m/m.
 
 ## 1. Latest nowcast
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **15-May-2026**:
+Latest nowcast (median, 20 and 80 percentiles) based on vintage **22-May-2026**:
 
-- YoY growth (%): `1.13` [`0.91`,`1.30`]
-- QoQ growth (%): `0.42` [`0.19`,`0.59`]
-- GDP log level: `4.7176` [`4.7153`,`4.7193`]
+- YoY growth (%): `1.30` [`1.07`,`1.49`]
+- QoQ growth (%): `0.58` [`0.35`,`0.78`]
+- GDP log level: `4.7192` [`4.7169`,`4.7211`]
 
 ## 2. Trailing nowcast charts
 
@@ -43,6 +43,7 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
+| 22-May-2026 | 4.7192 | 1.3 | 0.6 |
 | 15-May-2026 | 4.7176 | 1.1 | 0.4 |
 | 08-May-2026 | 4.7165 | 1.0 | 0.3 |
 | 01-May-2026 | 4.7139 | 0.8 | 0.1 |
@@ -81,6 +82,8 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 
 | From vintage | To vintage | Series | Observation date | New value | Release value |
 |--------------|------------|--------|------------------|----------:|--------------:|
+| 15-May-2026 | 22-May-2026 | EXP | 31-Mar-2026 | 10.96 | 4.04 |
+| 15-May-2026 | 22-May-2026 | IMP | 31-Mar-2026 | 10.87 | 4.69 |
 | 08-May-2026 | 15-May-2026 | IPI | 31-Mar-2026 | 4.55 | 0.74 |
 | 08-May-2026 | 15-May-2026 | IPIDE | 31-Mar-2026 | 4.51 | -1.21 |
 | 01-May-2026 | 08-May-2026 | Retail | 31-Mar-2026 | 4.58 | -0.10 |
@@ -125,4 +128,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 15-May-2026 12:02:45.
+Report automatically generated on 22-May-2026 12:02:50.
