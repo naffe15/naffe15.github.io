@@ -13,15 +13,15 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 19-Jun-2026
+**Vintage date:** 26-Jun-2026
 
 **Nowcast quarter:** 2026:II
 
-**Summary:** Italy’s 2026Q2 GDP nowcast stands at 1.65% YoY and 0.85% QoQ. Estimates are essentially unchanged from the prior week (log level slipped to 4.7229 from 4.7232). The marginal softening aligns with April trade data, as exports fell 2.24% m/m and imports 0.63% m/m.
+**Summary:** Italy’s Q2‑2026 GDP nowcast stands at 1.65% YoY and 0.85% QoQ. Both estimates are unchanged from the prior week (0.00 pp revision), as there were no new data releases since the previous vintage to shift the signal.
 
 ## 1. Latest nowcast
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **19-Jun-2026**:
+Latest nowcast (median, 20 and 80 percentiles) based on vintage **26-Jun-2026**:
 
 - YoY growth (%): `1.65` [`1.50`,`1.80`]
 - QoQ growth (%): `0.85` [`0.70`,`1.00`]
@@ -43,6 +43,7 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
+| 26-Jun-2026 | 4.7229 | 1.7 | 0.9 |
 | 19-Jun-2026 | 4.7229 | 1.7 | 0.9 |
 | 12-Jun-2026 | 4.7232 | 1.7 | 0.9 |
 | 05-Jun-2026 | 4.7218 | 1.5 | 0.7 |
@@ -148,4 +149,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 19-Jun-2026 12:07:56.
+Report automatically generated on 26-Jun-2026 12:08:19.
