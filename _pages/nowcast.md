@@ -13,19 +13,19 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 10-Jul-2026
+**Vintage date:** 17-Jul-2026
 
 **Nowcast quarter:** 2026:II
 
-**Summary:** Italy’s 2026Q2 GDP nowcast stands at 1.61% YoY and 0.81% QoQ, essentially unchanged from the 3-Jul vintage. Mixed fresh data likely kept the outlook steady: May industrial production in Italy fell (-0.32% m/m) while German IP rose (+0.77% m/m), with only negligible back-revisions to April IP.
+**Summary:** Italy’s 2026Q2 GDP nowcast is 1.6% YoY and 0.8% QoQ, unchanged from the prior week (0.0pp revision). The only notable new data were May trade figures—exports +0.20% m/m and imports +1.45% m/m—which provided limited impetus and left the headline nowcast steady.
 
 ## 1. Latest nowcast
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **10-Jul-2026**:
+Latest nowcast (median, 20 and 80 percentiles) based on vintage **17-Jul-2026**:
 
-- YoY growth (%): `1.61` [`1.47`,`1.74`]
-- QoQ growth (%): `0.81` [`0.67`,`0.93`]
-- GDP log level: `4.7225` [`4.7211`,`4.7237`]
+- YoY growth (%): `1.60` [`1.46`,`1.72`]
+- QoQ growth (%): `0.80` [`0.66`,`0.92`]
+- GDP log level: `4.7223` [`4.7209`,`4.7236`]
 
 ## 2. Trailing nowcast charts
 
@@ -43,6 +43,7 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
+| 17-Jul-2026 | 4.7223 | 1.6 | 0.8 |
 | 10-Jul-2026 | 4.7225 | 1.6 | 0.8 |
 | 03-Jul-2026 | 4.7226 | 1.6 | 0.8 |
 | 26-Jun-2026 | 4.7229 | 1.7 | 0.9 |
@@ -89,6 +90,8 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 
 | From vintage | To vintage | Series | Observation date | New value | Release value |
 |--------------|------------|--------|------------------|----------:|--------------:|
+| 10-Jul-2026 | 17-Jul-2026 | EXP | 31-May-2026 | 10.94 | 0.20 |
+| 10-Jul-2026 | 17-Jul-2026 | IMP | 31-May-2026 | 10.87 | 1.45 |
 | 03-Jul-2026 | 10-Jul-2026 | IPI | 31-May-2026 | 4.55 | -0.32 |
 | 03-Jul-2026 | 10-Jul-2026 | IPIDE | 31-May-2026 | 4.52 | 0.77 |
 | 26-Jun-2026 | 03-Jul-2026 | ConsumerConf | 30-Jun-2026 | -22.20 | -0.90 |
@@ -96,8 +99,8 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 | 26-Jun-2026 | 03-Jul-2026 | EURIBOR1Y | 30-Jun-2026 | 2.80 | -0.01 |
 | 26-Jun-2026 | 03-Jul-2026 | Retail | 31-May-2026 | 4.58 | -0.31 |
 | 26-Jun-2026 | 03-Jul-2026 | UNR | 31-May-2026 | 5.00 | -0.10 |
-| 12-Jun-2026 | 19-Jun-2026 | EXP | 30-Apr-2026 | 10.93 | -2.24 |
-| 12-Jun-2026 | 19-Jun-2026 | IMP | 30-Apr-2026 | 10.86 | -0.63 |
+| 12-Jun-2026 | 19-Jun-2026 | EXP | 30-Apr-2026 | 10.93 | -2.07 |
+| 12-Jun-2026 | 19-Jun-2026 | IMP | 30-Apr-2026 | 10.86 | -0.49 |
 | 05-Jun-2026 | 12-Jun-2026 | IPI | 30-Apr-2026 | 4.55 | 0.42 |
 | 05-Jun-2026 | 12-Jun-2026 | IPIDE | 30-Apr-2026 | 4.51 | 0.22 |
 | 29-May-2026 | 05-Jun-2026 | ConsumerConf | 31-May-2026 | -21.30 | 2.50 |
@@ -105,7 +108,7 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 | 29-May-2026 | 05-Jun-2026 | EURIBOR1Y | 31-May-2026 | 2.80 | 0.06 |
 | 29-May-2026 | 05-Jun-2026 | Retail | 30-Apr-2026 | 4.58 | 0.00 |
 | 29-May-2026 | 05-Jun-2026 | UNR | 30-Apr-2026 | 5.10 | -0.10 |
-| 15-May-2026 | 22-May-2026 | EXP | 31-Mar-2026 | 10.96 | 4.10 |
+| 15-May-2026 | 22-May-2026 | EXP | 31-Mar-2026 | 10.96 | 4.09 |
 | 15-May-2026 | 22-May-2026 | IMP | 31-Mar-2026 | 10.87 | 4.70 |
 | 08-May-2026 | 15-May-2026 | IPI | 31-Mar-2026 | 4.55 | 0.74 |
 | 08-May-2026 | 15-May-2026 | IPIDE | 31-Mar-2026 | 4.51 | -0.77 |
@@ -122,6 +125,10 @@ Below we list only the changes in the already published data between consecutive
 
 | From vintage | To vintage | Series | Observation date | Old value | New value | Revision |
 |--------------|------------|--------|------------------|----------:|----------:|---------:|
+| 10-Jul-2026 | 17-Jul-2026 | EXP | 30-Apr-2026 | 10.9345 | 10.9356 | 0.0011 |
+| 10-Jul-2026 | 17-Jul-2026 | IMP | 30-Apr-2026 | 10.8591 | 10.8601 | 0.0011 |
+| 10-Jul-2026 | 17-Jul-2026 | EXP | 31-Mar-2026 | 10.9569 | 10.9563 | -0.0006 |
+| 10-Jul-2026 | 17-Jul-2026 | IMP | 31-Mar-2026 | 10.8654 | 10.8651 | -0.0004 |
 | 03-Jul-2026 | 10-Jul-2026 | IPI | 30-Apr-2026 | 4.5528 | 4.5518 | -0.0011 |
 | 03-Jul-2026 | 10-Jul-2026 | IPIDE | 30-Apr-2026 | 4.5098 | 4.5120 | 0.0022 |
 | 26-Jun-2026 | 03-Jul-2026 | IndustrialConf | 31-May-2026 | -6.8000 | -6.9000 | -0.1000 |
@@ -162,4 +169,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 10-Jul-2026 12:08:11.
+Report automatically generated on 17-Jul-2026 12:08:03.
