@@ -43,7 +43,6 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
-| 15-Aug-2026 | 4.7196 | 1.1 | 0.3 |
 | 14-Aug-2026 | 4.7196 | 1.1 | 0.3 |
 | 07-Aug-2026 | 4.7195 | 1.1 | 0.3 |
 | 31-Jul-2026 | 4.7233 | 1.5 | 0.7 |
