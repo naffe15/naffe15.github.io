@@ -38,14 +38,13 @@ Publications:
 * The dynamics of US inflation: can monetary policy explain the changes? (2012), Journal of Econometrics, Vol. 167; with F. Canova. <a href="https://ideas.repec.org/a/eee/econom/v167y2012i1p47-60.html"> [paper]
 * Trend agnostic one-step estimation of DSGE models (2011), The B.E. Journal of Macroeconomics, Vol 11, Issue 1 (Advances), Article 25. <a href="https://ideas.repec.org/a/bpj/bejmac/v11y2011i1n25.html"> [paper]
 * Multiple filtering devices for the estimation of cyclical DSGE models (2011), Quantitative Economics, Volume 2, Issue 1; with F. Canova. <a href="https://ideas.repec.org/a/ecm/quante/v2y2011i1p73-98.html"> [paper]
-* Comments on MEDEA: A DSGE model for the Spanish Economy (2010), Journal of the Spanish Economic Association, Volume 1, Numbers 1-2. <a href="https://ideas.repec.org/a/spr/series/v1y2010i1p245-249.html"> [paper]
+* Comments on MEDEA: A DSGE model for the Spanish Economy (2010), Journal of the Spanish Economic Association, Volume 1, Numbers 1-2. <a href="https://ideas.repec.org/a/spr/series/v1y2010i1p245-249.html"> [paper] 
 
 ****
 
 Other publications:
 
-* 
-* Uncovering the labour supply channel of monetary transmission, (2026) VoXEU, CEPR Policy Portal, August 4 2026. (F. Bloise, C. Cantore, M. Das, S. Graves, J. Hambur, K. Hellwig, C. Huckfeldt, M. Licchetta, H. Mumtaz, G. Ragusa, J. Spray, E. T. Swanson, A. Theophilopoulou) <a href="https://cepr.org/voxeu/columns/uncovering-labour-supply-channel-monetary-transmission"> [paper]
+* Uncovering the labour supply channel of monetary transmission, (2026) VoXEU, CEPR Policy Portal, August 4 2026. (F. Bloise, C. Cantore, M. Das, S. Graves, J. Hambur, K. Hellwig, C. Huckfeldt, M. Licchetta, H. Mumtaz, G. Ragusa, J. Spray, E. T. Swanson, A. Theophilopoulou) <a href="https://cepr.org/voxeu/columns/uncovering-labour-supply-channel-monetary-transmission"> [paper] 
 * Communicating monetary policy by a committee: Echoes that move markets, (2025) VoXEU, CEPR Policy Portal, October 4 2025. (M. Djourelova, L. Melosi, A. Villa.) <a href="https://cepr.org/voxeu/columns/communicating-monetary-policy-committee-echoes-move-markets"> [paper]
 * Inequality and Shocks to Firms' Pricing Decisions (2024), Economic Perspective, Federal Reserve Bank of Chicago, No. 6, November 2024. (with A. T. Villa) <a href="https://www.chicagofed.org/publications/economic-perspectives/2024/6">[paper]
 * How Tight Is U.S. Monetary Policy? (2023), Chicago Fed Letter, No. 476, March 2023. (with J. D. M. Fisher and L. Melosi) <a href="https://www.chicagofed.org/publications/chicago-fed-letter/2023/476">[paper]
