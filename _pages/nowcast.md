@@ -126,4 +126,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 28-Aug-2026 11:47:34.
+Report automatically generated on 28-Aug-2026 12:01:04.
