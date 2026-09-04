@@ -13,19 +13,19 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 28-Aug-2026
+**Vintage date:** 04-Sep-2026
 
 **Nowcast quarter:** 2026:III
 
-**Summary:** Italy’s Q3-2026 GDP nowcast is 1.12% YoY and 0.28% QoQ. The read is essentially unchanged versus the 21-Aug vintage (1.1% YoY, 0.3% QoQ), with only a minor +0.1pt revision to June Industrial Confidence and no new hard-activity data to shift the outlook.
+**Summary:** Italy’s 2026 Q3 GDP nowcast is 1.04% YoY and 0.21% QoQ, down from 1.10% and 0.30% last week (-0.06 pp and -0.09 pp). The downgrade likely reflects weaker July retail sales (-0.31% m/m) and a small dip in consumer confidence (-0.1 pt), partly offset by a 0.6-pt improvement in industrial confidence; a 10 bp rise in 1Y Euribor was also recorded.
 
 ## 1. Latest nowcast
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **28-Aug-2026**:
+Latest nowcast (median, 20 and 80 percentiles) based on vintage **04-Sep-2026**:
 
-- YoY growth (%): `1.12` [`0.90`,`1.35`]
-- QoQ growth (%): `0.28` [`0.06`,`0.51`]
-- GDP log level: `4.7194` [`4.7172`,`4.7217`]
+- YoY growth (%): `1.04` [`0.86`,`1.18`]
+- QoQ growth (%): `0.21` [`0.04`,`0.35`]
+- GDP log level: `4.7185` [`4.7168`,`4.7199`]
 
 ## 2. Trailing nowcast charts
 
@@ -43,6 +43,7 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
+| 04-Sep-2026 | 4.7185 | 1.0 | 0.2 |
 | 28-Aug-2026 | 4.7194 | 1.1 | 0.3 |
 | 21-Aug-2026 | 4.7196 | 1.1 | 0.3 |
 | 14-Aug-2026 | 4.7196 | 1.1 | 0.3 |
@@ -79,11 +80,16 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 
 | From vintage | To vintage | Series | Observation date | New value | Release value |
 |--------------|------------|--------|------------------|----------:|--------------:|
+| 28-Aug-2026 | 04-Sep-2026 | ConsumerConf | 31-Aug-2026 | -20.30 | -0.10 |
+| 28-Aug-2026 | 04-Sep-2026 | IndustrialConf | 31-Aug-2026 | -4.80 | 0.60 |
+| 28-Aug-2026 | 04-Sep-2026 | EURIBOR1Y | 31-Aug-2026 | 2.95 | 0.10 |
+| 28-Aug-2026 | 04-Sep-2026 | Retail | 31-Jul-2026 | 4.58 | -0.31 |
+| 28-Aug-2026 | 04-Sep-2026 | UNR | 31-Jul-2026 | 5.80 | 0.00 |
 | 07-Aug-2026 | 14-Aug-2026 | IPIDE | 30-Jun-2026 | 4.52 | 0.22 |
 | 07-Aug-2026 | 14-Aug-2026 | EXP | 30-Jun-2026 | 10.95 | 1.59 |
 | 07-Aug-2026 | 14-Aug-2026 | IMP | 30-Jun-2026 | 10.89 | 1.20 |
 | 31-Jul-2026 | 07-Aug-2026 | EURIBOR1Y | 31-Jul-2026 | 2.86 | 0.06 |
-| 31-Jul-2026 | 07-Aug-2026 | Retail | 30-Jun-2026 | 4.59 | 0.20 |
+| 31-Jul-2026 | 07-Aug-2026 | Retail | 30-Jun-2026 | 4.59 | 0.00 |
 | 31-Jul-2026 | 07-Aug-2026 | IPI | 30-Jun-2026 | 4.54 | -0.96 |
 | 24-Jul-2026 | 31-Jul-2026 | ConsumerConf | 31-Jul-2026 | -20.20 | 1.90 |
 | 24-Jul-2026 | 31-Jul-2026 | IndustrialConf | 31-Jul-2026 | -5.40 | 0.60 |
@@ -96,6 +102,9 @@ Below we list only the changes in the already published data between consecutive
 
 | From vintage | To vintage | Series | Observation date | Old value | New value | Revision |
 |--------------|------------|--------|------------------|----------:|----------:|---------:|
+| 28-Aug-2026 | 04-Sep-2026 | Retail | 30-Jun-2026 | 4.5870 | 4.5839 | -0.0031 |
+| 28-Aug-2026 | 04-Sep-2026 | UNR | 30-Jun-2026 | 5.7000 | 5.8000 | 0.1000 |
+| 28-Aug-2026 | 04-Sep-2026 | RGDP | 30-Jun-2026 | 4.7166 | 4.7164 | -0.0002 |
 | 21-Aug-2026 | 28-Aug-2026 | IndustrialConf | 30-Jun-2026 | -6.1000 | -6.0000 | 0.1000 |
 | 24-Jul-2026 | 31-Jul-2026 | ConsumerConf | 30-Jun-2026 | -22.2000 | -22.1000 | 0.1000 |
 | 24-Jul-2026 | 31-Jul-2026 | IndustrialConf | 30-Jun-2026 | -6.4000 | -6.1000 | 0.3000 |
@@ -126,4 +135,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 28-Aug-2026 12:01:04.
+Report automatically generated on 04-Sep-2026 13:34:42.
