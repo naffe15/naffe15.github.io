@@ -35,10 +35,6 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 ![Trailing nowcast and distribution – YoY growth](combined_nowcast_yoy_.png)
 
-### Trailing nowcast and distribution – QoQ growth
-
-![Trailing nowcast and distribution – QoQ growth](combined_nowcast_qoq_.png)
-
 ## 3. Trailing nowcast table
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
