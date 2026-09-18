@@ -13,19 +13,19 @@ This page updates on Fridays on a weekly base.
 The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
 The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
 
-**Vintage date:** 11-Sep-2026
+**Vintage date:** 18-Sep-2026
 
 **Nowcast quarter:** 2026:III
 
-**Summary:** Italy’s 2026Q3 GDP nowcast stands at 1.12% YoY and 0.30% QoQ. Versus the 04-Sep vintage, both are up 0.1pp (from 1.0% YoY and 0.2% QoQ), with the improvement aligned with a stronger July industrial production reading in Italy (+0.75% m/m) partly offset by weaker German IPI (-1.54% m/m).
+**Summary:** Italy’s Q3-2026 GDP nowcast is 1.07% YoY and 0.25% QoQ in the 18-Sep vintage. Versus last week, the YoY eased by 0.03pp (from 1.10%) and the QoQ by 0.05pp (from 0.30%), amid mixed July trade data with exports up 0.30% m/m and imports down 1.21% m/m.
 
 ## 1. Latest nowcast
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **11-Sep-2026**:
+Latest nowcast (median, 20 and 80 percentiles) based on vintage **18-Sep-2026**:
 
-- YoY growth (%): `1.12` [`0.96`,`1.27`]
-- QoQ growth (%): `0.30` [`0.13`,`0.45`]
-- GDP log level: `4.7194` [`4.7177`,`4.7209`]
+- YoY growth (%): `1.07` [`0.91`,`1.22`]
+- QoQ growth (%): `0.25` [`0.08`,`0.40`]
+- GDP log level: `4.7189` [`4.7172`,`4.7204`]
 
 ## 2. Trailing nowcast charts
 
@@ -43,6 +43,7 @@ The bands summarize model uncertainty, not a formal policy forecast range
 
 | Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
 |--------------|----------------:|--------------:|--------------:|
+| 18-Sep-2026 | 4.7189 | 1.1 | 0.2 |
 | 11-Sep-2026 | 4.7194 | 1.1 | 0.3 |
 | 04-Sep-2026 | 4.7185 | 1.0 | 0.2 |
 | 28-Aug-2026 | 4.7194 | 1.1 | 0.3 |
@@ -81,6 +82,8 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 
 | From vintage | To vintage | Series | Observation date | New value | Release value |
 |--------------|------------|--------|------------------|----------:|--------------:|
+| 11-Sep-2026 | 18-Sep-2026 | EXP | 31-Jul-2026 | 10.96 | 0.30 |
+| 11-Sep-2026 | 18-Sep-2026 | IMP | 31-Jul-2026 | 10.87 | -1.21 |
 | 04-Sep-2026 | 11-Sep-2026 | IPI | 31-Jul-2026 | 4.55 | 0.75 |
 | 04-Sep-2026 | 11-Sep-2026 | IPIDE | 31-Jul-2026 | 4.51 | -1.54 |
 | 28-Aug-2026 | 04-Sep-2026 | ConsumerConf | 31-Aug-2026 | -20.30 | -0.10 |
@@ -89,8 +92,8 @@ Below we list only the genuinely new releases, i.e. observations that were missi
 | 28-Aug-2026 | 04-Sep-2026 | Retail | 31-Jul-2026 | 4.58 | -0.31 |
 | 28-Aug-2026 | 04-Sep-2026 | UNR | 31-Jul-2026 | 5.80 | 0.00 |
 | 07-Aug-2026 | 14-Aug-2026 | IPIDE | 30-Jun-2026 | 4.52 | 0.33 |
-| 07-Aug-2026 | 14-Aug-2026 | EXP | 30-Jun-2026 | 10.95 | 1.59 |
-| 07-Aug-2026 | 14-Aug-2026 | IMP | 30-Jun-2026 | 10.89 | 1.20 |
+| 07-Aug-2026 | 14-Aug-2026 | EXP | 30-Jun-2026 | 10.95 | 1.58 |
+| 07-Aug-2026 | 14-Aug-2026 | IMP | 30-Jun-2026 | 10.89 | 1.03 |
 | 31-Jul-2026 | 07-Aug-2026 | EURIBOR1Y | 31-Jul-2026 | 2.86 | 0.06 |
 | 31-Jul-2026 | 07-Aug-2026 | Retail | 30-Jun-2026 | 4.59 | 0.00 |
 | 31-Jul-2026 | 07-Aug-2026 | IPI | 30-Jun-2026 | 4.54 | -1.06 |
@@ -105,6 +108,7 @@ Below we list only the changes in the already published data between consecutive
 
 | From vintage | To vintage | Series | Observation date | Old value | New value | Revision |
 |--------------|------------|--------|------------------|----------:|----------:|---------:|
+| 11-Sep-2026 | 18-Sep-2026 | IMP | 30-Jun-2026 | 10.8881 | 10.8836 | -0.0045 |
 | 04-Sep-2026 | 11-Sep-2026 | IPIDE | 30-Jun-2026 | 4.5229 | 4.5207 | -0.0022 |
 | 28-Aug-2026 | 04-Sep-2026 | Retail | 30-Jun-2026 | 4.5870 | 4.5839 | -0.0031 |
 | 28-Aug-2026 | 04-Sep-2026 | UNR | 30-Jun-2026 | 5.7000 | 5.8000 | 0.1000 |
@@ -139,4 +143,4 @@ This chart compares the sequence of nowcasts for the previous quarter with the s
 
 ---
 
-Report automatically generated on 11-Sep-2026 12:08:12.
+Report automatically generated on 18-Sep-2026 12:08:36.
