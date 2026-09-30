@@ -1,147 +1,132 @@
 ---
 layout: archive
-title: "IT Now"
+title: "IT Now: Italy GDP nowcast"
 permalink: /nowcast/
 author_profile: true
-redirect_from: 
-- /resume
 ---
-This page updates on Fridays on a weekly base.
 
-## Italy GDP Nowcast Report
+**Latest estimate, 30 September 2026:** Italy's real GDP in **Q3 2026** is growing by **0.33%** compared with the previous quarter.
+Likely range (80% probability): 0.11% to 0.54%. Compared with a year earlier: 1.15%.
+The estimate is up 0.08 percentage points from last week.
+{: .notice--primary}
 
-The Italian GDP nowcasts are constructed using the Mixed Frequency Bayesian Vector AutoRegressive (MFBVAR) model as in Schorfheide and Song (2015, JBES).
-The MFBVAR model is estimated using the <a href="https://github.com/naffe15/BVAR_">Empirical Macro Toolbox, see <a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">Ferroni and Canova (2020).
+*Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
 
-**Vintage date:** 25-Sep-2026
+{% capture itnow_block %}{% include nowcast_intro.md %}{% endcapture %}
+{{ itnow_block | markdownify }}
 
-**Nowcast quarter:** 2026:III
+## How the estimate for Q3 2026 has evolved
 
-**Summary:** Italy’s 2026Q3 GDP nowcast stands at 1.07% YoY and 0.25% QoQ (vintage 25-Sep-2026). The estimate is unchanged from the prior week (0.00pp revision for both YoY and QoQ) as there were no new data releases between the 18-Sep and 25-Sep vintages.
+![How the Q3 2026 GDP nowcast evolved week by week](web_nowcast_qoq.png)
 
-## 1. Latest nowcast
+Each point is the estimate made on that Friday with the data available at the time. The shaded bands show the uncertainty: the darker band contains the outcome with 50% probability, the lighter band with 80%. The bands narrow as more monthly data for the quarter are published.
 
-Latest nowcast (median, 20 and 80 percentiles) based on vintage **25-Sep-2026**:
+## What changed this week
 
-- YoY growth (%): `1.07` [`0.91`,`1.22`]
-- QoQ growth (%): `0.25` [`0.08`,`0.40`]
-- GDP log level: `4.7189` [`4.7172`,`4.7204`]
+New data published since last week:
 
-## 2. Trailing nowcast charts
+- Industrial confidence (Sep 2026): +1.2 points
 
-The bands summarize model uncertainty, not a formal policy forecast range
+## In context
 
-### Trailing nowcast and distribution – YoY growth
+![Italy quarterly GDP growth over the last three years and the current nowcast](web_context.png)
 
-![Trailing nowcast and distribution – YoY growth](combined_nowcast_yoy_.png)
+Grey bars are official ISTAT figures (latest available vintage); the blue bar is this week's nowcast with its 80% range.
 
-### Trailing nowcast and distribution – QoQ growth
+{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
+{{ itnow_block | markdownify }}
 
-![Trailing nowcast and distribution – QoQ growth](combined_nowcast_qoq_.png)
+## Details
 
-## 3. Trailing nowcast table
+<details markdown="1">
+<summary>Weekly estimates for this quarter</summary>
 
-| Vintage date | Log level (p50) | YoY (%, p50) | QoQ (%, p50) |
-|--------------|----------------:|--------------:|--------------:|
-| 25-Sep-2026 | 4.7189 | 1.1 | 0.2 |
-| 18-Sep-2026 | 4.7189 | 1.1 | 0.2 |
-| 11-Sep-2026 | 4.7194 | 1.1 | 0.3 |
-| 04-Sep-2026 | 4.7185 | 1.0 | 0.2 |
-| 28-Aug-2026 | 4.7194 | 1.1 | 0.3 |
-| 21-Aug-2026 | 4.7196 | 1.1 | 0.3 |
-| 14-Aug-2026 | 4.7196 | 1.1 | 0.3 |
-| 07-Aug-2026 | 4.7195 | 1.1 | 0.3 |
-| 31-Jul-2026 | 4.7233 | 1.5 | 0.7 |
-| 24-Jul-2026 | 4.7260 | 1.8 | 0.4 |
-| 17-Jul-2026 | 4.7261 | 1.8 | 0.4 |
-| 10-Jul-2026 | 4.7266 | 1.8 | 0.4 |
-| 03-Jul-2026 | 4.7271 | 1.9 | 0.5 |
+| Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
+|---|---:|---:|---:|
+| 30 September 2026 | 0.33% | 0.11% to 0.54% | 1.15% |
+| 25 September 2026 | 0.25% | 0.02% to 0.47% | 1.07% |
+| 18 September 2026 | 0.25% | 0.02% to 0.47% | 1.07% |
+| 11 September 2026 | 0.30% | 0.06% to 0.52% | 1.12% |
+| 4 September 2026 | 0.21% | -0.03% to 0.44% | 1.04% |
+| 28 August 2026 | 0.28% | -0.05% to 0.61% | 1.12% |
+| 21 August 2026 | 0.30% | -0.04% to 0.63% | 1.14% |
+| 14 August 2026 | 0.30% | -0.04% to 0.63% | 1.14% |
+| 7 August 2026 | 0.29% | -0.04% to 0.63% | 1.13% |
+| 31 July 2026 | 0.67% | 0.27% to 1.08% | 1.52% |
+| 24 July 2026 | 0.39% | -0.13% to 0.85% | 1.76% |
+| 17 July 2026 | 0.38% | -0.09% to 0.86% | 1.76% |
+| 10 July 2026 | 0.40% | -0.08% to 0.89% | 1.81% |
+| 3 July 2026 | 0.48% | -0.03% to 0.99% | 1.87% |
 
-## 4. Interpretation of release values
+![Year-on-year nowcast](web_nowcast_yoy.png)
 
-Release values represent period-on-period changes. For log-transformed series, they approximate percentage growth rates, while for level series they represent absolute changes (for example, percentage-point changes for rates and index-point changes for survey balances).
+</details>
 
-| Series | Transformation | Interpretation of release value |
-|--------|----------------|----------------------------------|
-| Retail | Log | Month-on-month growth rate (%) |
-| UNR | Level | Change in percentage points (pp) |
-| ConsumerConf | Level | Change in index points |
-| IndustrialConf | Level | Change in index points |
-| IPI | Log | Month-on-month growth rate (%) |
-| IPI-DE | Log | Month-on-month growth rate (%) |
-| HICP | Log | Month-on-month growth rate (%) |
-| EURIBOR-1Y | Level | Change in percentage points (pp) |
-| EXP | Log | Month-on-month growth rate (%) |
-| IMP | Log | Month-on-month growth rate (%) |
-| RGDP | Log + quarterly-to-monthly fill | Approx. monthly growth rate (%) |
+<details markdown="1">
+<summary>Data releases since the start of the quarter</summary>
 
-## 5. Data updates since previous vintage
+| Week of | Indicator | Data for | Change on previous period |
+|---|---|---|---:|
+| 30 September 2026 | Industrial confidence | Sep 2026 | +1.2 points |
+| 18 September 2026 | Exports | Jul 2026 | +0.3% on previous month |
+| 18 September 2026 | Imports | Jul 2026 | -1.2% on previous month |
+| 11 September 2026 | Industrial production | Jul 2026 | +0.7% on previous month |
+| 11 September 2026 | Industrial production in Germany | Jul 2026 | -1.5% on previous month |
+| 4 September 2026 | Consumer confidence | Aug 2026 | -0.1 points |
+| 4 September 2026 | Industrial confidence | Aug 2026 | +0.8 points |
+| 4 September 2026 | 1-year Euribor interest rate | Aug 2026 | +0.10 percentage points |
+| 4 September 2026 | Retail sales (volume) | Jul 2026 | -0.3% on previous month |
+| 4 September 2026 | Unemployment rate | Jul 2026 | +0.00 percentage points |
+| 14 August 2026 | Industrial production in Germany | Jun 2026 | +0.3% on previous month |
+| 14 August 2026 | Exports | Jun 2026 | +1.6% on previous month |
+| 14 August 2026 | Imports | Jun 2026 | +1.0% on previous month |
+| 7 August 2026 | 1-year Euribor interest rate | Jul 2026 | +0.06 percentage points |
+| 7 August 2026 | Retail sales (volume) | Jun 2026 | +0.0% on previous month |
+| 7 August 2026 | Industrial production | Jun 2026 | -1.1% on previous month |
+| 31 July 2026 | Consumer confidence | Jul 2026 | +1.9 points |
+| 31 July 2026 | Industrial confidence | Jul 2026 | +0.8 points |
+| 31 July 2026 | Unemployment rate | Jun 2026 | +0.40 percentage points |
+| 31 July 2026 | Real GDP | Q2 2026 | published |
 
-### 5A. New releases
+</details>
 
-Below we list only the genuinely new releases, i.e. observations that were missing in the previous vintage and become available in the current one. The last column reports the release value, i.e. the period-on-period change implied by the current vintage (for log-transformed series, approximately a growth rate in %; for level series, an absolute change).
+<details markdown="1">
+<summary>Revisions to previously published data</summary>
 
-| From vintage | To vintage | Series | Observation date | New value | Release value |
-|--------------|------------|--------|------------------|----------:|--------------:|
-| 11-Sep-2026 | 18-Sep-2026 | EXP | 31-Jul-2026 | 10.96 | 0.30 |
-| 11-Sep-2026 | 18-Sep-2026 | IMP | 31-Jul-2026 | 10.87 | -1.21 |
-| 04-Sep-2026 | 11-Sep-2026 | IPI | 31-Jul-2026 | 4.55 | 0.75 |
-| 04-Sep-2026 | 11-Sep-2026 | IPIDE | 31-Jul-2026 | 4.51 | -1.54 |
-| 28-Aug-2026 | 04-Sep-2026 | ConsumerConf | 31-Aug-2026 | -20.30 | -0.10 |
-| 28-Aug-2026 | 04-Sep-2026 | IndustrialConf | 31-Aug-2026 | -4.80 | 0.60 |
-| 28-Aug-2026 | 04-Sep-2026 | EURIBOR1Y | 31-Aug-2026 | 2.95 | 0.10 |
-| 28-Aug-2026 | 04-Sep-2026 | Retail | 31-Jul-2026 | 4.58 | -0.31 |
-| 28-Aug-2026 | 04-Sep-2026 | UNR | 31-Jul-2026 | 5.80 | 0.00 |
-| 07-Aug-2026 | 14-Aug-2026 | IPIDE | 30-Jun-2026 | 4.52 | 0.33 |
-| 07-Aug-2026 | 14-Aug-2026 | EXP | 30-Jun-2026 | 10.95 | 1.58 |
-| 07-Aug-2026 | 14-Aug-2026 | IMP | 30-Jun-2026 | 10.89 | 1.03 |
-| 31-Jul-2026 | 07-Aug-2026 | EURIBOR1Y | 31-Jul-2026 | 2.86 | 0.06 |
-| 31-Jul-2026 | 07-Aug-2026 | Retail | 30-Jun-2026 | 4.59 | 0.00 |
-| 31-Jul-2026 | 07-Aug-2026 | IPI | 30-Jun-2026 | 4.54 | -1.06 |
-| 24-Jul-2026 | 31-Jul-2026 | ConsumerConf | 31-Jul-2026 | -20.20 | 1.90 |
-| 24-Jul-2026 | 31-Jul-2026 | IndustrialConf | 31-Jul-2026 | -5.40 | 0.60 |
-| 24-Jul-2026 | 31-Jul-2026 | UNR | 30-Jun-2026 | 5.70 | 0.40 |
-| 24-Jul-2026 | 31-Jul-2026 | RGDP | 30-Jun-2026 | 4.72 | NaN |
+| Week of | Indicator | Data for | Old value | New value |
+|---|---|---|---:|---:|
+| 30 September 2026 | Industrial confidence | Aug 2026 | -4.80 | -4.40 |
+| 30 September 2026 | Industrial confidence | Jul 2026 | -5.40 | -5.20 |
+| 18 September 2026 | Imports | Jun 2026 | 10.89 | 10.88 |
+| 11 September 2026 | Industrial production in Germany | Jun 2026 | 4.52 | 4.52 |
+| 4 September 2026 | Retail sales (volume) | Jun 2026 | 4.59 | 4.58 |
+| 4 September 2026 | Unemployment rate | Jun 2026 | 5.70 | 5.80 |
+| 4 September 2026 | Real GDP | Q2 2026 | 4.72 | 4.72 |
+| 28 August 2026 | Industrial confidence | Jun 2026 | -6.10 | -6.00 |
+| 31 July 2026 | Consumer confidence | Jun 2026 | -22.20 | -22.10 |
+| 31 July 2026 | Industrial confidence | Jun 2026 | -6.40 | -6.10 |
 
-### 5B. Value changes
+</details>
 
-Below we list only the changes in the already published data between consecutive vintages. The last column reports the revision, computed as New value minus Old value.
+<details markdown="1">
+<summary>Indicators used</summary>
 
-| From vintage | To vintage | Series | Observation date | Old value | New value | Revision |
-|--------------|------------|--------|------------------|----------:|----------:|---------:|
-| 11-Sep-2026 | 18-Sep-2026 | IMP | 30-Jun-2026 | 10.8881 | 10.8836 | -0.0045 |
-| 04-Sep-2026 | 11-Sep-2026 | IPIDE | 30-Jun-2026 | 4.5229 | 4.5207 | -0.0022 |
-| 28-Aug-2026 | 04-Sep-2026 | Retail | 30-Jun-2026 | 4.5870 | 4.5839 | -0.0031 |
-| 28-Aug-2026 | 04-Sep-2026 | UNR | 30-Jun-2026 | 5.7000 | 5.8000 | 0.1000 |
-| 28-Aug-2026 | 04-Sep-2026 | RGDP | 30-Jun-2026 | 4.7166 | 4.7164 | -0.0002 |
-| 21-Aug-2026 | 28-Aug-2026 | IndustrialConf | 30-Jun-2026 | -6.1000 | -6.0000 | 0.1000 |
-| 24-Jul-2026 | 31-Jul-2026 | ConsumerConf | 30-Jun-2026 | -22.2000 | -22.1000 | 0.1000 |
-| 24-Jul-2026 | 31-Jul-2026 | IndustrialConf | 30-Jun-2026 | -6.4000 | -6.1000 | 0.3000 |
+| Indicator | Frequency | Source | Enters the model as |
+|---|---|---|---|
+| Retail sales (volume) | Monthly | EUROSTAT | log level |
+| Unemployment rate | Monthly | EUROSTAT | level |
+| Consumer confidence | Monthly | EUROSTAT | level |
+| Industrial confidence | Monthly | EUROSTAT | level |
+| Industrial production | Monthly | EUROSTAT | log level |
+| Industrial production in Germany | Monthly | EUROSTAT | log level |
+| Consumer prices (HICP) | Monthly | EUROSTAT | log level |
+| 1-year Euribor interest rate | Monthly | ECB | level |
+| Exports | Monthly | ISTAT | log level |
+| Imports | Monthly | ISTAT | log level |
+| Real GDP | Quarterly | EUROSTAT | log level |
 
-## 6. Dataset
-
-### Data coverage
-
-| Series | Description | Start | End |
-|--------|-------------|-------|-----|
-| Retail | Turnover and volume of sales in wholesale and retail trade, SA, monthly. | M | EUROSTAT |
-| UNR | Unemployment Rate, SA, monthly. | M | EUROSTAT |
-| ConsumerConf | Eurostat’s consumer confidence, SA, monthly. | M | EUROSTAT |
-| IndustrialConf | Eurostat’s industrial confidence (manufacturing proxy), SA, monthly. | M | EUROSTAT |
-| IPI | Industrial Production Index, SA, monthly. | M | EUROSTAT |
-| IPI-DE | Industrial Production Index, SA, monthly. | M | EUROSTAT |
-| HICP | HICP, NSA, monthly. | M | EUROSTAT |
-| EURIBOR-1Y | Euribor 1Y monthly avg (ECB). | M | ECB |
-| EXP | Exports to World, SA, monthly. | M | ISTAT |
-| IMP | Imports from World, SA, monthly. | M | ISTAT |
-| RGDP | Real GDP, SA, chain‑linked (quarterly). | Q | EUROSTAT |
-
-## 7. Previous-quarter nowcast vs realized GDP
-
-This chart compares the sequence of nowcasts for the previous quarter with the subsequently released GDP estimate.
-
-![Previous Quarter Nowcast – YoY and QoQ growth rate](final_nowcast_.png)
+</details>
 
 ---
 
-Report automatically generated on 25-Sep-2026 12:08:18.
+<small>Page generated automatically on 30 Sep 2026 16:42.</small>
