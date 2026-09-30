@@ -8,7 +8,7 @@ author_profile: true
 **Latest estimate, 30 September 2026:** Italy's real GDP in **Q3 2026** is growing by **0.33%** compared with the previous quarter.
 Likely range (80% probability): 0.11% to 0.54%. Compared with a year earlier: 1.15%.
 The estimate is up 0.08 percentage points from last week.
-{: .notice--primary}
+{: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 *Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
 
@@ -129,4 +129,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 30 Sep 2026 16:42.</small>
+<small>Page generated automatically on 30 Sep 2026 17:02.</small>
