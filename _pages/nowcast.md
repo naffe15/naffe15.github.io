@@ -23,6 +23,12 @@ Each point is the estimate made on that Friday with the data available at the ti
 
 ## What changed this week
 
+The data published this week moved the estimate by -0.05 percentage points (prices & rates -0.12, surveys +0.06, revisions +0.01).
+
+![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
+
+*Contributions are computed with the model: each group of releases is added in turn and the change in the average nowcast is recorded. Totals can differ from the headline figure, a median, by a few hundredths.*
+
 New data published since last week:
 
 - Industrial confidence (Sep 2026): +1.2 points
@@ -137,4 +143,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 01 Oct 2026 10:06.</small>
+<small>Page generated automatically on 01 Oct 2026 15:00.</small>
