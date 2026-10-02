@@ -23,7 +23,7 @@ Each point is the estimate made on that Friday with the data available at the ti
 
 ## What changed this week
 
-The data published this week moved the estimate by -0.25 percentage points (prices & rates -0.15, consumption -0.12, revisions -0.08).
+The data published this week moved the estimate by -0.07 percentage points (prices & rates -0.16, consumption -0.08, surveys +0.07).
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
@@ -152,4 +152,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 02 Oct 2026 19:55.</small>
+<small>Page generated automatically on 02 Oct 2026 22:29.</small>
