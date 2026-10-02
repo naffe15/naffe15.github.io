@@ -5,10 +5,10 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 30 September 2026:** Italy's real GDP in **Q3 2026** is growing by **0.33%** compared with the previous quarter.
-Likely range (80% probability): 0.11% to 0.54%. Compared with a year earlier: 1.15%.
-The estimate is up 0.08 percentage points from last week.
-{: .notice--primary}
+**Latest estimate, 2 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.06%** compared with the previous quarter.
+Likely range (80% probability): -0.15% to 0.27%. Compared with a year earlier: 0.88%.
+The estimate is down 0.19 percentage points from last week.
+{: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 *Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
 
@@ -23,9 +23,22 @@ Each point is the estimate made on that Friday with the data available at the ti
 
 ## What changed this week
 
+The data published this week moved the estimate by -0.19 percentage points (consumption -0.21, surveys +0.07, prices & rates -0.06).
+
+![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
+
+*Contributions are computed with the model: each group of releases is added in turn and the change in the average nowcast is recorded. Totals can differ from the headline figure, a median, by a few hundredths.*
+
 New data published since last week:
 
 - Industrial confidence (Sep 2026): +1.2 points
+- Consumer prices (HICP) (Sep 2026): +2.0% on previous month
+- 1-year Euribor interest rate (Sep 2026): +0.29 percentage points
+- Retail sales (volume) (Aug 2026): +0.1% on previous month
+- Unemployment rate (Aug 2026): +0.20 percentage points
+- Consumer prices (HICP) (Aug 2026): +0.1% on previous month
+- Consumer prices (HICP) (Jul 2026): -1.0% on previous month
+- Consumer prices (HICP) (Jun 2026): +0.0% on previous month
 
 ## In context
 
@@ -43,7 +56,7 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
-| 30 September 2026 | 0.33% | 0.11% to 0.54% | 1.15% |
+| 2 October 2026 | 0.06% | -0.15% to 0.27% | 0.88% |
 | 25 September 2026 | 0.25% | 0.02% to 0.47% | 1.07% |
 | 18 September 2026 | 0.25% | 0.02% to 0.47% | 1.07% |
 | 11 September 2026 | 0.30% | 0.06% to 0.52% | 1.12% |
@@ -67,7 +80,14 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 | Week of | Indicator | Data for | Change on previous period |
 |---|---|---|---:|
-| 30 September 2026 | Industrial confidence | Sep 2026 | +1.2 points |
+| 2 October 2026 | Industrial confidence | Sep 2026 | +1.2 points |
+| 2 October 2026 | Consumer prices (HICP) | Sep 2026 | +2.0% on previous month |
+| 2 October 2026 | 1-year Euribor interest rate | Sep 2026 | +0.29 percentage points |
+| 2 October 2026 | Retail sales (volume) | Aug 2026 | +0.1% on previous month |
+| 2 October 2026 | Unemployment rate | Aug 2026 | +0.20 percentage points |
+| 2 October 2026 | Consumer prices (HICP) | Aug 2026 | +0.1% on previous month |
+| 2 October 2026 | Consumer prices (HICP) | Jul 2026 | -1.0% on previous month |
+| 2 October 2026 | Consumer prices (HICP) | Jun 2026 | +0.0% on previous month |
 | 18 September 2026 | Exports | Jul 2026 | +0.3% on previous month |
 | 18 September 2026 | Imports | Jul 2026 | -1.2% on previous month |
 | 11 September 2026 | Industrial production | Jul 2026 | +0.7% on previous month |
@@ -75,13 +95,13 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 | 4 September 2026 | Consumer confidence | Aug 2026 | -0.1 points |
 | 4 September 2026 | Industrial confidence | Aug 2026 | +0.8 points |
 | 4 September 2026 | 1-year Euribor interest rate | Aug 2026 | +0.10 percentage points |
-| 4 September 2026 | Retail sales (volume) | Jul 2026 | -0.3% on previous month |
+| 4 September 2026 | Retail sales (volume) | Jul 2026 | -0.4% on previous month |
 | 4 September 2026 | Unemployment rate | Jul 2026 | +0.00 percentage points |
 | 14 August 2026 | Industrial production in Germany | Jun 2026 | +0.3% on previous month |
 | 14 August 2026 | Exports | Jun 2026 | +1.6% on previous month |
 | 14 August 2026 | Imports | Jun 2026 | +1.0% on previous month |
 | 7 August 2026 | 1-year Euribor interest rate | Jul 2026 | +0.06 percentage points |
-| 7 August 2026 | Retail sales (volume) | Jun 2026 | +0.0% on previous month |
+| 7 August 2026 | Retail sales (volume) | Jun 2026 | +0.2% on previous month |
 | 7 August 2026 | Industrial production | Jun 2026 | -1.1% on previous month |
 | 31 July 2026 | Consumer confidence | Jul 2026 | +1.9 points |
 | 31 July 2026 | Industrial confidence | Jul 2026 | +0.8 points |
@@ -95,8 +115,11 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 | Week of | Indicator | Data for | Old value | New value |
 |---|---|---|---:|---:|
-| 30 September 2026 | Industrial confidence | Aug 2026 | -4.80 | -4.40 |
-| 30 September 2026 | Industrial confidence | Jul 2026 | -5.40 | -5.20 |
+| 2 October 2026 | Industrial confidence | Aug 2026 | -4.80 | -4.40 |
+| 2 October 2026 | Retail sales (volume) | Jul 2026 | 4.58 | 4.58 |
+| 2 October 2026 | Unemployment rate | Jul 2026 | 5.80 | 6.00 |
+| 2 October 2026 | Industrial confidence | Jul 2026 | -5.40 | -5.20 |
+| 2 October 2026 | Unemployment rate | Jun 2026 | 5.80 | 6.00 |
 | 18 September 2026 | Imports | Jun 2026 | 10.89 | 10.88 |
 | 11 September 2026 | Industrial production in Germany | Jun 2026 | 4.52 | 4.52 |
 | 4 September 2026 | Retail sales (volume) | Jun 2026 | 4.59 | 4.58 |
@@ -129,4 +152,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 30 Sep 2026 16:42.</small>
+<small>Page generated automatically on 02 Oct 2026 12:18.</small>
