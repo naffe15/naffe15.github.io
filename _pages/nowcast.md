@@ -5,9 +5,9 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 2 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.06%** compared with the previous quarter.
-Likely range (80% probability): -0.15% to 0.27%. Compared with a year earlier: 0.88%.
-The estimate is down 0.19 percentage points from last week.
+**Latest estimate, 2 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.44%** compared with the previous quarter.
+Likely range (80% probability): 0.11% to 0.76%. Compared with a year earlier: 1.26%.
+The estimate is down 0.25 percentage points from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 *Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
@@ -23,7 +23,7 @@ Each point is the estimate made on that Friday with the data available at the ti
 
 ## What changed this week
 
-The data published this week moved the estimate by -0.19 percentage points (consumption -0.21, surveys +0.07, prices & rates -0.06).
+The data published this week moved the estimate by -0.25 percentage points (prices & rates -0.15, consumption -0.12, revisions -0.08).
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
@@ -56,20 +56,20 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
-| 2 October 2026 | 0.06% | -0.15% to 0.27% | 0.88% |
-| 25 September 2026 | 0.25% | 0.02% to 0.47% | 1.07% |
-| 18 September 2026 | 0.25% | 0.02% to 0.47% | 1.07% |
-| 11 September 2026 | 0.30% | 0.06% to 0.52% | 1.12% |
-| 4 September 2026 | 0.21% | -0.03% to 0.44% | 1.04% |
-| 28 August 2026 | 0.28% | -0.05% to 0.61% | 1.12% |
-| 21 August 2026 | 0.30% | -0.04% to 0.63% | 1.14% |
-| 14 August 2026 | 0.30% | -0.04% to 0.63% | 1.14% |
-| 7 August 2026 | 0.29% | -0.04% to 0.63% | 1.13% |
-| 31 July 2026 | 0.67% | 0.27% to 1.08% | 1.52% |
-| 24 July 2026 | 0.39% | -0.13% to 0.85% | 1.76% |
-| 17 July 2026 | 0.38% | -0.09% to 0.86% | 1.76% |
-| 10 July 2026 | 0.40% | -0.08% to 0.89% | 1.81% |
-| 3 July 2026 | 0.48% | -0.03% to 0.99% | 1.87% |
+| 2 October 2026 | 0.44% | 0.11% to 0.76% | 1.26% |
+| 25 September 2026 | 0.69% | 0.17% to 1.22% | 1.52% |
+| 18 September 2026 | 0.69% | 0.17% to 1.22% | 1.52% |
+| 11 September 2026 | 0.77% | 0.25% to 1.30% | 1.60% |
+| 4 September 2026 | 0.72% | 0.19% to 1.25% | 1.55% |
+| 28 August 2026 | 0.94% | 0.32% to 1.59% | 1.78% |
+| 21 August 2026 | 0.95% | 0.33% to 1.60% | 1.79% |
+| 14 August 2026 | 0.95% | 0.33% to 1.60% | 1.79% |
+| 7 August 2026 | 0.95% | 0.32% to 1.62% | 1.79% |
+| 31 July 2026 | 1.36% | 0.64% to 2.12% | 2.20% |
+| 24 July 2026 | 1.02% | 0.08% to 2.01% | 2.48% |
+| 17 July 2026 | 1.02% | 0.08% to 2.01% | 2.48% |
+| 10 July 2026 | 1.05% | 0.11% to 2.04% | 2.52% |
+| 3 July 2026 | 1.12% | 0.15% to 2.12% | 2.60% |
 
 ![Year-on-year nowcast](web_nowcast_yoy.png)
 
@@ -152,4 +152,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 02 Oct 2026 12:18.</small>
+<small>Page generated automatically on 02 Oct 2026 16:38.</small>
