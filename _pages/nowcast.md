@@ -21,6 +21,10 @@ The estimate is down 0.07 percentage points from last week.
 
 Each point is the estimate made on that Friday with the data available at the time. The shaded bands show the uncertainty: the darker band contains the outcome with 50% probability, the lighter band with 80%. The bands narrow as more monthly data for the quarter are published.
 
+![What moved the Q3 2026 nowcast each week](web_news_quarter.png)
+
+Each bar shows how much the data published that week moved the nowcast, split by type of data. Grey bars are revisions to figures published earlier.
+
 ## What changed this week
 
 The data published this week moved the estimate by -0.07 percentage points (prices & rates -0.16, consumption -0.08, surveys +0.07).
@@ -152,4 +156,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 02 Oct 2026 22:29.</small>
+<small>Page generated automatically on 02 Oct 2026 23:33.</small>
