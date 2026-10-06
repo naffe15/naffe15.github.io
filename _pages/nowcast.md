@@ -5,9 +5,9 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 2 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.14%** compared with the previous quarter.
-Likely range (80% probability): -0.09% to 0.36%. Compared with a year earlier: 0.96%.
-The estimate is down 0.07 percentage points from last week.
+**Latest estimate, 6 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.11%** compared with the previous quarter.
+Likely range (80% probability): -0.27% to 0.50%. Compared with a year earlier: 0.90%.
+The estimate is down 0.01 percentage points from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 *Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
@@ -21,34 +21,35 @@ The estimate is down 0.07 percentage points from last week.
 
 Each point is the estimate made on that Friday with the data available at the time. The shaded bands show the uncertainty: the darker band contains the outcome with 50% probability, the lighter band with 80%. The bands narrow as more monthly data for the quarter are published.
 
-![What moved the Q3 2026 nowcast each week](web_news_quarter.png)
-
-Each bar shows how much the data published that week moved the nowcast, split by type of data. Grey bars are revisions to figures published earlier.
-
 ## What changed this week
 
-The data published this week moved the estimate by -0.07 percentage points (prices & rates -0.16, consumption -0.08, surveys +0.07).
+The data published this week moved the estimate by -0.01 percentage points (revisions -0.01).
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
 *Contributions are computed with the model: each group of releases is added in turn and the change in the average nowcast is recorded. Totals can differ from the headline figure, a median, by a few hundredths.*
 
-New data published since last week:
-
-- Industrial confidence (Sep 2026): +1.2 points
-- Consumer prices (HICP) (Sep 2026): +2.0% on previous month
-- 1-year Euribor interest rate (Sep 2026): +0.29 percentage points
-- Retail sales (volume) (Aug 2026): +0.1% on previous month
-- Unemployment rate (Aug 2026): +0.20 percentage points
-- Consumer prices (HICP) (Aug 2026): +0.1% on previous month
-- Consumer prices (HICP) (Jul 2026): -1.0% on previous month
-- Consumer prices (HICP) (Jun 2026): +0.0% on previous month
+No new monthly data were published since last week.
 
 ## In context
 
 ![Italy quarterly GDP growth over the last three years and the current nowcast](web_context.png)
 
 Grey bars are official ISTAT figures (latest available vintage); the blue bar is this week's nowcast with its 80% range.
+
+## How accurate has the nowcast been?
+
+Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.
+
+![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
+
+| Quarter | Our last nowcast | 80% range | ISTAT first estimate | Difference |
+|---|---:|---:|---:|---:|
+| Q2 2026 | 0.80% | 0.58% to 1.00% | 0.19% | +0.61 pp |
+| Q1 2026 | 0.37% | 0.19% to 0.57% | 0.17% | +0.20 pp |
+| Q4 2025 | -0.06% | -0.23% to 0.11% | 0.32% | -0.38 pp |
+
+![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
 
 {% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
 {{ itnow_block | markdownify }}
@@ -60,20 +61,21 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
-| 2 October 2026 | 0.14% | -0.09% to 0.36% | 0.96% |
-| 25 September 2026 | 0.20% | -0.01% to 0.42% | 1.03% |
-| 18 September 2026 | 0.20% | -0.01% to 0.42% | 1.03% |
-| 11 September 2026 | 0.24% | 0.02% to 0.46% | 1.06% |
-| 4 September 2026 | 0.18% | -0.04% to 0.39% | 1.00% |
-| 28 August 2026 | 0.30% | 0.05% to 0.56% | 1.14% |
-| 21 August 2026 | 0.31% | 0.06% to 0.57% | 1.15% |
-| 14 August 2026 | 0.31% | 0.06% to 0.57% | 1.15% |
-| 7 August 2026 | 0.29% | 0.03% to 0.56% | 1.13% |
-| 31 July 2026 | 0.60% | 0.31% to 0.90% | 1.44% |
-| 24 July 2026 | 0.02% | -0.37% to 0.43% | 1.09% |
-| 17 July 2026 | 0.02% | -0.37% to 0.43% | 1.09% |
-| 10 July 2026 | 0.02% | -0.37% to 0.43% | 1.09% |
-| 3 July 2026 | 0.04% | -0.37% to 0.45% | 1.12% |
+| 6 October 2026 | 0.11% | -0.27% to 0.50% | 0.90% |
+| 2 October 2026 | 0.12% | -0.26% to 0.51% | 0.94% |
+| 25 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
+| 18 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
+| 11 September 2026 | 0.21% | -0.21% to 0.66% | 1.03% |
+| 4 September 2026 | 0.19% | -0.24% to 0.64% | 1.02% |
+| 28 August 2026 | 0.19% | -0.25% to 0.67% | 1.04% |
+| 21 August 2026 | 0.21% | -0.23% to 0.68% | 1.05% |
+| 14 August 2026 | 0.21% | -0.23% to 0.68% | 1.05% |
+| 7 August 2026 | 0.20% | -0.26% to 0.66% | 1.05% |
+| 31 July 2026 | 0.38% | -0.10% to 0.85% | 1.22% |
+| 24 July 2026 | 0.02% | -0.62% to 0.68% | 0.96% |
+| 17 July 2026 | 0.02% | -0.62% to 0.68% | 0.96% |
+| 10 July 2026 | 0.00% | -0.64% to 0.66% | 0.90% |
+| 3 July 2026 | 0.02% | -0.63% to 0.68% | 0.91% |
 
 ![Year-on-year nowcast](web_nowcast_yoy.png)
 
@@ -119,6 +121,7 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 | Week of | Indicator | Data for | Old value | New value |
 |---|---|---|---:|---:|
+| 6 October 2026 | Real GDP | Q2 2026 | 4.72 | 4.73 |
 | 2 October 2026 | Industrial confidence | Aug 2026 | -4.80 | -4.40 |
 | 2 October 2026 | Retail sales (volume) | Jul 2026 | 4.58 | 4.58 |
 | 2 October 2026 | Unemployment rate | Jul 2026 | 5.80 | 6.00 |
@@ -156,4 +159,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 02 Oct 2026 23:33.</small>
+<small>Page generated automatically on 06 Oct 2026 12:45.</small>
