@@ -51,6 +51,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 |---|---:|---:|---:|---:|
 | Q2 2026 | 0.35% | -0.10% to 0.81% | 0.19% | +0.15 pp |
 | Q1 2026 | 0.21% | -0.20% to 0.62% | 0.17% | +0.05 pp |
+| Q4 2025 | -0.06% | -0.23% to 0.11% | 0.32% | -0.38 pp |
 
 ![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
 
@@ -162,4 +163,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 ---
 
-<small>Page generated automatically on 06 Oct 2026 14:44.</small>
+<small>Page generated automatically on 06 Oct 2026 15:44.</small>
