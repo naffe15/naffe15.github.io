@@ -41,7 +41,7 @@ No new monthly data were published since last week.
 ## In context
 
 <details markdown="1">
-<summary> Italy quarterly GDP growth over the past years. </summary>
+<summary>Historical Italy GDP growth</summary>
 
 ![Italy quarterly GDP growth over the last three years and the current nowcast](web_context.png)
 
@@ -51,7 +51,8 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 ## How accurate has the nowcast been?
 
 <details markdown="1">
-<summary>Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.</summary>
+<summary>Nowcast accuracy</summary>
+Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.
 
 ![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
 
