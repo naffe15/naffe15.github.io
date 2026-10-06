@@ -21,6 +21,10 @@ The estimate is down 0.01 percentage points from last week.
 
 Each point is the estimate made on that Friday with the data available at the time. The shaded bands show the uncertainty: the darker band contains the outcome with 50% probability, the lighter band with 80%. The bands narrow as more monthly data for the quarter are published.
 
+![What moved the Q3 2026 nowcast each week](web_news_quarter.png)
+
+Each bar shows how much the data published that week moved the nowcast, split by type of data. Grey bars are revisions to figures published earlier.
+
 ## What changed this week
 
 The data published this week moved the estimate by -0.01 percentage points (revisions -0.01).
@@ -36,20 +40,6 @@ No new monthly data were published since last week.
 ![Italy quarterly GDP growth over the last three years and the current nowcast](web_context.png)
 
 Grey bars are official ISTAT figures (latest available vintage); the blue bar is this week's nowcast with its 80% range.
-
-## How accurate has the nowcast been?
-
-Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.
-
-![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
-
-| Quarter | Our last nowcast | 80% range | ISTAT first estimate | Difference |
-|---|---:|---:|---:|---:|
-| Q2 2026 | 0.80% | 0.58% to 1.00% | 0.19% | +0.61 pp |
-| Q1 2026 | 0.37% | 0.19% to 0.57% | 0.17% | +0.20 pp |
-| Q4 2025 | -0.06% | -0.23% to 0.11% | 0.32% | -0.38 pp |
-
-![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
 
 {% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
 {{ itnow_block | markdownify }}
@@ -159,4 +149,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 ---
 
-<small>Page generated automatically on 06 Oct 2026 12:45.</small>
+<small>Page generated automatically on 06 Oct 2026 14:29.</small>
