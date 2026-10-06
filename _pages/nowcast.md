@@ -43,7 +43,8 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ## How accurate has the nowcast been?
 
-Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.
+<details markdown="1">
+<summary>Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.</summary>
 
 ![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
 
@@ -54,6 +55,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 | Q4 2025 | -0.06% | -0.23% to 0.11% | 0.32% | -0.38 pp |
 
 ![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
+</details>
 
 {% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
 {{ itnow_block | markdownify }}
