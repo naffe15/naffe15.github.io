@@ -41,6 +41,9 @@ No new monthly data were published since last week.
 
 Grey bars are official ISTAT figures (latest available vintage); the blue bar is this week's nowcast with its 80% range.
 
+{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
+{{ itnow_block | markdownify }}
+
 ## How accurate has the nowcast been?
 
 <details markdown="1">
@@ -56,9 +59,6 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
 </details>
-
-{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
-{{ itnow_block | markdownify }}
 
 ## Details
 
