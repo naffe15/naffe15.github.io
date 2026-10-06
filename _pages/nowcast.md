@@ -35,14 +35,18 @@ The data published this week moved the estimate by -0.01 percentage points (revi
 
 No new monthly data were published since last week.
 
+{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
+{{ itnow_block | markdownify }}
+
 ## In context
+
+<details markdown="1">
+<summary> Italy quarterly GDP growth over the past years. </summary>
 
 ![Italy quarterly GDP growth over the last three years and the current nowcast](web_context.png)
 
 Grey bars are official ISTAT figures (latest available vintage); the blue bar is this week's nowcast with its 80% range.
-
-{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
-{{ itnow_block | markdownify }}
+</details>
 
 ## How accurate has the nowcast been?
 
