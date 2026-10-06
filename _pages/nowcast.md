@@ -41,6 +41,19 @@ No new monthly data were published since last week.
 
 Grey bars are official ISTAT figures (latest available vintage); the blue bar is this week's nowcast with its 80% range.
 
+## How accurate has the nowcast been?
+
+Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.
+
+![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
+
+| Quarter | Our last nowcast | 80% range | ISTAT first estimate | Difference |
+|---|---:|---:|---:|---:|
+| Q2 2026 | 0.35% | -0.10% to 0.81% | 0.19% | +0.15 pp |
+| Q1 2026 | 0.21% | -0.20% to 0.62% | 0.17% | +0.05 pp |
+
+![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
+
 {% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
 {{ itnow_block | markdownify }}
 
@@ -149,4 +162,4 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 
 ---
 
-<small>Page generated automatically on 06 Oct 2026 14:29.</small>
+<small>Page generated automatically on 06 Oct 2026 14:44.</small>
