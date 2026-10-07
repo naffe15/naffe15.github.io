@@ -48,7 +48,7 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 ## How accurate has the nowcast been?
 
 <details markdown="1">
-<summary>Historical Italy GDP growth</summary>
+<summary>Nowcast accuracy</summary>
 Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete real-time information.
 
 ![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
