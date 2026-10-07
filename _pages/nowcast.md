@@ -5,7 +5,7 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 6 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.11%** compared with the previous quarter.
+**Latest estimate, 7 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.11%** compared with the previous quarter.
 Likely range (80% probability): -0.27% to 0.50%. Compared with a year earlier: 0.90%.
 The estimate is down 0.01 percentage points from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
@@ -35,9 +35,6 @@ The data published this week moved the estimate by -0.01 percentage points (revi
 
 No new monthly data were published since last week.
 
-{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
-{{ itnow_block | markdownify }}
-
 ## In context
 
 <details markdown="1">
@@ -51,8 +48,8 @@ Grey bars are official ISTAT figures (latest available vintage); the blue bar is
 ## How accurate has the nowcast been?
 
 <details markdown="1">
-<summary>Nowcast accuracy</summary>
-Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete information: misses happen, and we report them.
+<summary>Historical Italy GDP growth</summary>
+Every quarter we compare our last estimate before the official release with ISTAT's first estimate. Nowcasts are estimates made with incomplete real-time information.
 
 ![Final nowcast versus ISTAT first estimate, recent quarters](web_track_record.png)
 
@@ -63,6 +60,16 @@ Every quarter we compare our last estimate before the official release with ISTA
 | Q4 2025 | -0.06% | -0.23% to 0.11% | 0.32% | -0.38 pp |
 
 ![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
+
+</details>
+
+## About the model
+
+<details markdown="1">
+<summary>Mixed-Frequency Bayesian VAR (MF-BVAR)</summary>
+{% capture itnow_block %}{% include nowcast_method.md %}{% endcapture %}
+{{ itnow_block | markdownify }}
+
 </details>
 
 ## Details
@@ -72,7 +79,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
-| 6 October 2026 | 0.11% | -0.27% to 0.50% | 0.90% |
+| 7 October 2026 | 0.11% | -0.27% to 0.50% | 0.90% |
 | 2 October 2026 | 0.12% | -0.26% to 0.51% | 0.94% |
 | 25 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
 | 18 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
@@ -132,7 +139,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Week of | Indicator | Data for | Old value | New value |
 |---|---|---|---:|---:|
-| 6 October 2026 | Real GDP | Q2 2026 | 4.72 | 4.73 |
+| 7 October 2026 | Real GDP | Q2 2026 | 4.72 | 4.73 |
 | 2 October 2026 | Industrial confidence | Aug 2026 | -4.80 | -4.40 |
 | 2 October 2026 | Retail sales (volume) | Jul 2026 | 4.58 | 4.58 |
 | 2 October 2026 | Unemployment rate | Jul 2026 | 5.80 | 6.00 |
@@ -170,4 +177,6 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 ---
 
-<small>Page generated automatically on 06 Oct 2026 17:51.</small>
+*IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
+
+<small>Page generated automatically on 07 Oct 2026 09:42.</small>
