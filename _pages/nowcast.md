@@ -187,4 +187,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 09 Oct 2026 11:54.</small>
+<small>Page generated automatically on 09 Oct 2026 12:01.</small>
