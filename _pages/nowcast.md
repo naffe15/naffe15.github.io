@@ -35,6 +35,16 @@ The data published this week left the estimate essentially unchanged.
 
 No new monthly data were published since last week.
 
+## GDP growth in 2026
+
+**Estimate for 2026 as a whole: 0.79%** (80% range 0.30% to 1.23%), with the data available on 16 October 2026.
+
+If GDP stayed at its Q2 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q3 2026 adds +0.06 points and the model's forecast for Q4 2026 -0.06.
+
+![Italy GDP by quarter in 2025 and 2026, with the annual averages](web_annual.png)
+
+*Annual growth is the average GDP level of the four quarters over the average of the previous year, using seasonally and calendar-adjusted quarterly data. ISTAT's annual figure is not adjusted for the number of working days and can differ by one or two tenths. Quarters still to come are model forecasts, so their range is wider.*
+
 ## In context
 
 <details markdown="1">
@@ -116,7 +126,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 | 2 October 2026 | Consumer prices (HICP) | Jul 2026 | -1.0% on previous month |
 | 2 October 2026 | Consumer prices (HICP) | Jun 2026 | +0.0% on previous month |
 | 18 September 2026 | Exports | Jul 2026 | +0.3% on previous month |
-| 18 September 2026 | Imports | Jul 2026 | -1.2% on previous month |
+| 18 September 2026 | Imports | Jul 2026 | -1.1% on previous month |
 | 11 September 2026 | Industrial production | Jul 2026 | +0.6% on previous month |
 | 11 September 2026 | Industrial production in Germany | Jul 2026 | -1.8% on previous month |
 | 4 September 2026 | Consumer confidence | Aug 2026 | -0.1 points |
@@ -126,7 +136,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 | 4 September 2026 | Unemployment rate | Jul 2026 | +0.00 percentage points |
 | 14 August 2026 | Industrial production in Germany | Jun 2026 | +0.3% on previous month |
 | 14 August 2026 | Exports | Jun 2026 | +1.6% on previous month |
-| 14 August 2026 | Imports | Jun 2026 | +1.0% on previous month |
+| 14 August 2026 | Imports | Jun 2026 | +0.9% on previous month |
 | 7 August 2026 | 1-year Euribor interest rate | Jul 2026 | +0.06 percentage points |
 | 7 August 2026 | Retail sales (volume) | Jun 2026 | +0.2% on previous month |
 | 7 August 2026 | Industrial production | Jun 2026 | -1.0% on previous month |
@@ -185,4 +195,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 16 Oct 2026 12:01.</small>
+<small>Page generated automatically on 16 Oct 2026 14:53.</small>
