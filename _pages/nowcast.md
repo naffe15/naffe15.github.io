@@ -108,7 +108,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 | 9 October 2026 | Industrial production | Aug 2026 | -1.3% on previous month |
 | 9 October 2026 | Industrial production in Germany | Aug 2026 | +0.4% on previous month |
 | 2 October 2026 | Industrial confidence | Sep 2026 | +1.2 points |
-| 2 October 2026 | Consumer prices (HICP) | Sep 2026 | +2.0% on previous month |
+| 2 October 2026 | Consumer prices (HICP) | Sep 2026 | +2.1% on previous month |
 | 2 October 2026 | 1-year Euribor interest rate | Sep 2026 | +0.29 percentage points |
 | 2 October 2026 | Retail sales (volume) | Aug 2026 | +0.1% on previous month |
 | 2 October 2026 | Unemployment rate | Aug 2026 | +0.20 percentage points |
@@ -185,4 +185,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 16 Oct 2026 09:36.</small>
+<small>Page generated automatically on 16 Oct 2026 12:01.</small>
