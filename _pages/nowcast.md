@@ -5,7 +5,7 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 9 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.11%** compared with the previous quarter.
+**Latest estimate, 16 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.11%** compared with the previous quarter.
 Likely range (80% probability): -0.26% to 0.51%. Compared with a year earlier: 0.91%.
 The estimate is unchanged from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
@@ -27,16 +27,13 @@ Each bar shows how much the data published that week moved the nowcast, split by
 
 ## What changed this week
 
-The data published this week moved the estimate by -0.01 percentage points (revisions -0.01, industry +0.01).
+The data published this week left the estimate essentially unchanged.
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
 *Contributions are computed with the model: each group of releases is added in turn and the change in the average nowcast is recorded. Totals can differ from the headline figure, a median, by a few hundredths.*
 
-New data published since last week:
-
-- Industrial production (Aug 2026): -1.3% on previous month
-- Industrial production in Germany (Aug 2026): +0.4% on previous month
+No new monthly data were published since last week.
 
 ## In context
 
@@ -82,6 +79,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
+| 16 October 2026 | 0.11% | -0.26% to 0.51% | 0.91% |
 | 9 October 2026 | 0.11% | -0.26% to 0.51% | 0.91% |
 | 2 October 2026 | 0.12% | -0.26% to 0.51% | 0.94% |
 | 25 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
@@ -187,4 +185,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 09 Oct 2026 12:01.</small>
+<small>Page generated automatically on 16 Oct 2026 09:36.</small>
