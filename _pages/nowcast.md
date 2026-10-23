@@ -5,9 +5,9 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 16 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.11%** compared with the previous quarter.
-Likely range (80% probability): -0.26% to 0.51%. Compared with a year earlier: 0.91%.
-The estimate is unchanged from last week.
+**Latest estimate, 23 October 2026:** Italy's real GDP in **Q3 2026** grew by **0.08%** compared with the previous quarter.
+Likely range (80% probability): -0.30% to 0.48%. Compared with a year earlier: 0.88%.
+The estimate is down 0.03 percentage points from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 *Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
@@ -27,19 +27,22 @@ Each bar shows how much the data published that week moved the nowcast, split by
 
 ## What changed this week
 
-The data published this week left the estimate essentially unchanged.
+The data published this week moved the estimate by -0.03 percentage points (trade -0.03).
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
 *Contributions are computed with the model: each group of releases is added in turn and the change in the average nowcast is recorded. Totals can differ from the headline figure, a median, by a few hundredths.*
 
-No new monthly data were published since last week.
+New data published since last week:
+
+- Exports (Aug 2026): -1.6% on previous month
+- Imports (Aug 2026): -1.7% on previous month
 
 ## GDP growth in 2026
 
-**Estimate for 2026 as a whole: 0.79%** (80% range 0.30% to 1.23%), with the data available on 16 October 2026.
+**Estimate for 2026 as a whole: 0.84%** (80% range 0.46% to 1.27%), with the data available on 23 October 2026.
 
-If GDP stayed at its Q2 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q3 2026 adds +0.06 points and the model's forecast for Q4 2026 -0.06.
+If GDP stayed at its Q2 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q3 2026 adds +0.05 points and the model's forecast for Q4 2026 +0.02.
 
 ![Italy GDP by quarter in 2025 and 2026, with the annual averages](web_annual.png)
 
@@ -89,6 +92,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
+| 23 October 2026 | 0.08% | -0.30% to 0.48% | 0.88% |
 | 16 October 2026 | 0.11% | -0.26% to 0.51% | 0.91% |
 | 9 October 2026 | 0.11% | -0.26% to 0.51% | 0.91% |
 | 2 October 2026 | 0.12% | -0.26% to 0.51% | 0.94% |
@@ -115,6 +119,8 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Week of | Indicator | Data for | Change on previous period |
 |---|---|---|---:|
+| 23 October 2026 | Exports | Aug 2026 | -1.6% on previous month |
+| 23 October 2026 | Imports | Aug 2026 | -1.7% on previous month |
 | 9 October 2026 | Industrial production | Aug 2026 | -1.3% on previous month |
 | 9 October 2026 | Industrial production in Germany | Aug 2026 | +0.4% on previous month |
 | 2 October 2026 | Industrial confidence | Sep 2026 | +1.2 points |
@@ -152,6 +158,11 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Week of | Indicator | Data for | Old value | New value |
 |---|---|---|---:|---:|
+| 23 October 2026 | Consumer prices (HICP) | Sep 2026 | 4.65 | 4.65 |
+| 23 October 2026 | Exports | Jul 2026 | 10.96 | 10.96 |
+| 23 October 2026 | Imports | Jul 2026 | 10.87 | 10.87 |
+| 23 October 2026 | Exports | Jun 2026 | 10.95 | 10.95 |
+| 23 October 2026 | Imports | Jun 2026 | 10.88 | 10.88 |
 | 9 October 2026 | Industrial production | Jul 2026 | 4.55 | 4.54 |
 | 9 October 2026 | Industrial production in Germany | Jul 2026 | 4.51 | 4.50 |
 | 9 October 2026 | Industrial production | Jun 2026 | 4.54 | 4.54 |
@@ -195,4 +206,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 16 Oct 2026 14:53.</small>
+<small>Page generated automatically on 23 Oct 2026 06:29.</small>
