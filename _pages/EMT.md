@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-The empirical macro toolbox is a new package that contains MATLAB functions and routines to estimate VARs, FAVARs, local projections and other models with classical or Bayesian methods. The toolbox allows a researcher to conduct inference under various prior assumptions on the parameters, to produce point and density forecasts, and to trace out the causal effect of shocks using a number of identification schemes. The toolbox is equipped to handle missing observations. It can also deal with panels of time series. We describe the methodology employed and implementation of the functions. We illustrate the main features with a number of practical examples.
+The empirical macro toolbox (EMT) is a free, open-source, end-to-end macro empirics kit, written in MATLAB and compatible with GNU Octave. At its core are Bayesian VAR (BVAR) models—one of the most versatile ways to structure and analyze macroeconomic data, spanning forecasting, scenario design, nowcasting, and shock identification within a single disciplined framework. The package also contains functions and routines to estimate panel VARs, FAVARs, local projections, trend/cycles decomposition and other models. We describe the methodology employed and implementation of the functions. We illustrate the main features with a number of practical examples.
 
-A hitchhiker guide to empirical macro models by Ferroni F. and Canova F. 
+Toolbox: [codes](https://github.com/naffe15/BVAR_)
 
-<a href="https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf">[Go to Up-to-date Paper] 
+Dependency function map (with its help summary): [docs/function_map.html](docs/function_map.html)
 
-<a href="https://github.com/naffe15/BVAR_">[Go to Toolbox]
+A hitchhiker guide to empirical macro models: [up-to-date paper]([BVAR_/HitchhikerGuide_.pdf at master · naffe15/BVAR_ · GitHub](https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf))
 
-<a href="https://www.youtube.com/channel/UCDepPX4wbdkIqfg438J0h_g">[Go to Video Tutorial]
+Video Tutorial: [EMT - YouTube]([Empirical macro toolbox - YouTube](https://www.youtube.com/channel/UCDepPX4wbdkIqfg438J0h_g)) 
