@@ -13,7 +13,7 @@ The empirical macro toolbox (EMT) is a free, open-source, end-to-end macro empir
 
 Toolbox: [codes](https://github.com/naffe15/BVAR_)
 
-Dependency function map (with its help summary): [function map](/_pages/function_map.html)](docs/function_map.html)
+Dependency function map (with its help summary): [function map](/_pages/function_map.html)
 
 A hitchhiker guide to empirical macro models: [up-to-date paper]([BVAR_/HitchhikerGuide_.pdf at master · naffe15/BVAR_ · GitHub](https://github.com/naffe15/BVAR_/blob/master/HitchhikerGuide_.pdf))
 
