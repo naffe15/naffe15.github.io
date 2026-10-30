@@ -13,6 +13,12 @@ This is our final estimate for Q3 2026, made with the data available before ISTA
 
 <!-- release-update -->
 
+**Update, 30 October 2026 at 11:15:** ISTAT's preliminary estimate puts Italy's GDP growth in Q3 2026 at **0%** on the previous quarter.
+Our final nowcast, published on 30 October 2026 at 08:12 with the data available before the release, was **0.15%** (80% range -0.25% to 0.53%). The chart below shows both.
+{: .notice--info}
+
+<!-- /release-update -->
+
 *Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
 
 {% capture itnow_block %}{% include nowcast_intro.md %}{% endcapture %}
