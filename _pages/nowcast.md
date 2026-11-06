@@ -5,38 +5,32 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 30 October 2026 at 08:12:** Italy's real GDP in **Q3 2026** grew by **0.15%** compared with the previous quarter.
-Likely range (80% probability): -0.25% to 0.53%. Compared with a year earlier: 0.94%.
-The estimate is up 0.06 percentage points from last week.
-This is our final estimate for Q3 2026, made with the data available before ISTAT's preliminary estimate, due today.
+**Latest estimate, 6 November 2026 at 10:10:** Italy's real GDP in **Q4 2026** is growing by **0.33%** compared with the previous quarter.
+Likely range (80% probability): -0.06% to 0.74%. Compared with a year earlier: 0.82%.
+The estimate is up 0.28 percentage points from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 <!-- release-update -->
 
-**Update, 30 October 2026 at 11:15:** ISTAT's preliminary estimate puts Italy's GDP growth in Q3 2026 at **0%** on the previous quarter.
-Our final nowcast, published on 30 October 2026 at 08:12 with the data available before the release, was **0.15%** (80% range -0.25% to 0.53%). The chart below shows both.
-{: .notice--info}
-
-<!-- /release-update -->
-
-*Updated every Friday. Next official figure: ISTAT preliminary estimate for Q3 2026, due 30 October 2026.*
+*Updated every Friday. Next official figure: ISTAT preliminary estimate for Q4 2026, due 29 January 2027.*
 
 {% capture itnow_block %}{% include nowcast_intro.md %}{% endcapture %}
 {{ itnow_block | markdownify }}
 
-## How the estimate for Q3 2026 has evolved
+## How the estimate for Q4 2026 has evolved
 
-![How the Q3 2026 GDP nowcast evolved week by week](web_nowcast_qoq.png)
+![How the Q4 2026 GDP nowcast evolved week by week](web_nowcast_qoq.png)
 
 Each point is the estimate made on that Friday with the data available at the time. The shaded bands show the uncertainty: the darker band contains the outcome with 50% probability, the lighter band with 80%. The bands narrow as more monthly data for the quarter are published.
 
-![What moved the Q3 2026 nowcast each week](web_news_quarter.png)
+![What moved the Q4 2026 nowcast each week](web_news_quarter.png)
 
 Each bar shows how much the data published that week moved the nowcast, split by type of data. Grey bars are revisions to figures published earlier.
 
-## What changed this week
+<details markdown="1">
+<summary>This week's changes in detail</summary>
 
-The data published this week moved the estimate by +0.06 percentage points (surveys +0.06).
+The data published this week moved the estimate by +0.28 percentage points (surveys +0.21, prices & rates +0.10, gdp release -0.05).
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
@@ -44,13 +38,20 @@ The data published this week moved the estimate by +0.06 percentage points (surv
 
 New data published since last week:
 
-- Consumer confidence (Sep 2026): -3.0 points
+- Consumer confidence (Oct 2026): -0.1 points
+- Industrial confidence (Oct 2026): +0.2 points
+- Consumer prices (HICP) (Oct 2026): +1.2% on previous month
+- 1-year Euribor interest rate (Oct 2026): -0.01 percentage points
+- Retail sales (volume) (Sep 2026): +0.1% on previous month
+- Unemployment rate (Sep 2026): +0.10 percentage points
+- Real GDP (Q3 2026): published
+</details>
 
 ## GDP growth in 2026
 
-**Estimate for 2026 as a whole: 0.85%** (80% range 0.45% to 1.28%), with the data available on 30 October 2026.
+**Estimate for 2026 as a whole: 0.87%** (80% range 0.76% to 0.96%), with the data available on 6 November 2026.
 
-If GDP stayed at its Q2 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q3 2026 adds +0.08 points and the model's forecast for Q4 2026 -0.01.
+If GDP stayed at its Q3 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q4 2026 adds +0.09 points.
 
 ![Italy GDP by quarter in 2025 and 2026, with the annual averages](web_annual.png)
 
@@ -76,11 +77,16 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Quarter | Our last nowcast | 80% range | ISTAT first estimate | Difference |
 |---|---:|---:|---:|---:|
+| Q3 2026 | 0.15% | -0.25% to 0.53% | 0.02% | +0.13 pp |
 | Q2 2026 | 0.35% | -0.10% to 0.81% | 0.19% | +0.15 pp |
 | Q1 2026 | 0.21% | -0.20% to 0.62% | 0.17% | +0.05 pp |
 | Q4 2025 | -0.06% | -0.23% to 0.11% | 0.32% | -0.38 pp |
 
-![Weekly nowcasts for Q2 2026 versus the official figure](web_previous_quarter.png)
+![Weekly nowcasts for Q3 2026 versus the official figure](web_previous_quarter.png)
+
+![What moved the Q3 2026 nowcast each week](web_news_2026Q3.png)
+
+Each bar shows how much the data published that week moved the nowcast, by type of data.
 
 </details>
 
@@ -100,24 +106,11 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
-| 30 October 2026 | 0.15% | -0.25% to 0.53% | 0.94% |
-| 23 October 2026 | 0.08% | -0.30% to 0.48% | 0.88% |
-| 16 October 2026 | 0.11% | -0.26% to 0.51% | 0.91% |
-| 9 October 2026 | 0.11% | -0.26% to 0.51% | 0.91% |
-| 2 October 2026 | 0.12% | -0.26% to 0.51% | 0.94% |
-| 25 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
-| 18 September 2026 | 0.14% | -0.28% to 0.60% | 0.97% |
-| 11 September 2026 | 0.21% | -0.21% to 0.66% | 1.03% |
-| 4 September 2026 | 0.19% | -0.24% to 0.64% | 1.02% |
-| 28 August 2026 | 0.19% | -0.25% to 0.67% | 1.04% |
-| 21 August 2026 | 0.21% | -0.23% to 0.68% | 1.05% |
-| 14 August 2026 | 0.21% | -0.23% to 0.68% | 1.05% |
-| 7 August 2026 | 0.20% | -0.26% to 0.66% | 1.05% |
-| 31 July 2026 | 0.38% | -0.10% to 0.85% | 1.22% |
-| 24 July 2026 | 0.02% | -0.62% to 0.68% | 0.96% |
-| 17 July 2026 | 0.02% | -0.62% to 0.68% | 0.96% |
-| 10 July 2026 | 0.00% | -0.64% to 0.66% | 0.90% |
-| 3 July 2026 | 0.02% | -0.63% to 0.68% | 0.91% |
+| 6 November 2026 | 0.33% | -0.06% to 0.74% | 0.82% |
+| 30 October 2026 | 0.05% | -0.45% to 0.59% | 0.68% |
+| 23 October 2026 | 0.16% | -0.33% to 0.66% | 0.71% |
+| 16 October 2026 | 0.16% | -0.33% to 0.66% | 0.71% |
+| 9 October 2026 | 0.19% | -0.30% to 0.70% | 0.78% |
 
 ![Year-on-year nowcast](web_nowcast_yoy.png)
 
@@ -128,38 +121,14 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Week of | Indicator | Data for | Change on previous period |
 |---|---|---|---:|
+| 6 November 2026 | Consumer confidence | Oct 2026 | -0.1 points |
+| 6 November 2026 | Industrial confidence | Oct 2026 | +0.2 points |
+| 6 November 2026 | Consumer prices (HICP) | Oct 2026 | +1.2% on previous month |
+| 6 November 2026 | 1-year Euribor interest rate | Oct 2026 | -0.01 percentage points |
+| 6 November 2026 | Retail sales (volume) | Sep 2026 | +0.1% on previous month |
+| 6 November 2026 | Unemployment rate | Sep 2026 | +0.10 percentage points |
+| 6 November 2026 | Real GDP | Q3 2026 | published |
 | 30 October 2026 | Consumer confidence | Sep 2026 | -3.0 points |
-| 23 October 2026 | Exports | Aug 2026 | -1.6% on previous month |
-| 23 October 2026 | Imports | Aug 2026 | -1.7% on previous month |
-| 9 October 2026 | Industrial production | Aug 2026 | -1.3% on previous month |
-| 9 October 2026 | Industrial production in Germany | Aug 2026 | +0.4% on previous month |
-| 2 October 2026 | Industrial confidence | Sep 2026 | +1.1 points |
-| 2 October 2026 | Consumer prices (HICP) | Sep 2026 | +2.1% on previous month |
-| 2 October 2026 | 1-year Euribor interest rate | Sep 2026 | +0.29 percentage points |
-| 2 October 2026 | Retail sales (volume) | Aug 2026 | +0.1% on previous month |
-| 2 October 2026 | Unemployment rate | Aug 2026 | +0.20 percentage points |
-| 2 October 2026 | Consumer prices (HICP) | Aug 2026 | +0.1% on previous month |
-| 2 October 2026 | Consumer prices (HICP) | Jul 2026 | -1.0% on previous month |
-| 2 October 2026 | Consumer prices (HICP) | Jun 2026 | +0.0% on previous month |
-| 18 September 2026 | Exports | Jul 2026 | +0.3% on previous month |
-| 18 September 2026 | Imports | Jul 2026 | -1.1% on previous month |
-| 11 September 2026 | Industrial production | Jul 2026 | +0.6% on previous month |
-| 11 September 2026 | Industrial production in Germany | Jul 2026 | -1.8% on previous month |
-| 4 September 2026 | Consumer confidence | Aug 2026 | +0.0 points |
-| 4 September 2026 | Industrial confidence | Aug 2026 | +0.9 points |
-| 4 September 2026 | 1-year Euribor interest rate | Aug 2026 | +0.10 percentage points |
-| 4 September 2026 | Retail sales (volume) | Jul 2026 | -0.4% on previous month |
-| 4 September 2026 | Unemployment rate | Jul 2026 | +0.00 percentage points |
-| 14 August 2026 | Industrial production in Germany | Jun 2026 | +0.3% on previous month |
-| 14 August 2026 | Exports | Jun 2026 | +1.6% on previous month |
-| 14 August 2026 | Imports | Jun 2026 | +0.9% on previous month |
-| 7 August 2026 | 1-year Euribor interest rate | Jul 2026 | +0.06 percentage points |
-| 7 August 2026 | Retail sales (volume) | Jun 2026 | +0.2% on previous month |
-| 7 August 2026 | Industrial production | Jun 2026 | -1.0% on previous month |
-| 31 July 2026 | Consumer confidence | Jul 2026 | +1.9 points |
-| 31 July 2026 | Industrial confidence | Jul 2026 | +0.8 points |
-| 31 July 2026 | Unemployment rate | Jun 2026 | +0.40 percentage points |
-| 31 July 2026 | Real GDP | Q2 2026 | published |
 
 </details>
 
@@ -168,30 +137,7 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 | Week of | Indicator | Data for | Old value | New value |
 |---|---|---|---:|---:|
-| 30 October 2026 | Consumer confidence | Aug 2026 | -20.30 | -20.20 |
-| 30 October 2026 | Industrial confidence | Aug 2026 | -4.40 | -4.30 |
-| 23 October 2026 | Consumer prices (HICP) | Sep 2026 | 4.65 | 4.65 |
-| 23 October 2026 | Exports | Jul 2026 | 10.96 | 10.96 |
-| 23 October 2026 | Imports | Jul 2026 | 10.87 | 10.87 |
-| 23 October 2026 | Exports | Jun 2026 | 10.95 | 10.95 |
-| 23 October 2026 | Imports | Jun 2026 | 10.88 | 10.88 |
-| 9 October 2026 | Industrial production | Jul 2026 | 4.55 | 4.54 |
-| 9 October 2026 | Industrial production in Germany | Jul 2026 | 4.51 | 4.50 |
-| 9 October 2026 | Industrial production | Jun 2026 | 4.54 | 4.54 |
-| 9 October 2026 | Real GDP | Q2 2026 | 4.72 | 4.73 |
-| 2 October 2026 | Industrial confidence | Aug 2026 | -4.80 | -4.40 |
-| 2 October 2026 | Retail sales (volume) | Jul 2026 | 4.58 | 4.58 |
-| 2 October 2026 | Unemployment rate | Jul 2026 | 5.80 | 6.00 |
-| 2 October 2026 | Industrial confidence | Jul 2026 | -5.40 | -5.20 |
-| 2 October 2026 | Unemployment rate | Jun 2026 | 5.80 | 6.00 |
-| 18 September 2026 | Imports | Jun 2026 | 10.89 | 10.88 |
-| 11 September 2026 | Industrial production in Germany | Jun 2026 | 4.52 | 4.52 |
-| 4 September 2026 | Retail sales (volume) | Jun 2026 | 4.59 | 4.58 |
-| 4 September 2026 | Unemployment rate | Jun 2026 | 5.70 | 5.80 |
-| 4 September 2026 | Real GDP | Q2 2026 | 4.72 | 4.72 |
-| 28 August 2026 | Industrial confidence | Jun 2026 | -6.10 | -6.00 |
-| 31 July 2026 | Consumer confidence | Jun 2026 | -22.20 | -22.10 |
-| 31 July 2026 | Industrial confidence | Jun 2026 | -6.40 | -6.10 |
+| 16 October 2026 | Consumer prices (HICP) | Sep 2026 | 4.65 | 4.65 |
 
 </details>
 
@@ -218,4 +164,4 @@ Every quarter we compare our last estimate before the official release with ISTA
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 30 Oct 2026 08:12.</small>
+<small>Page generated automatically on 06 Nov 2026 10:10.</small>
