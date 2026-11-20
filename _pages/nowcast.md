@@ -5,9 +5,9 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 13 November 2026 at 12:13:** Italy's real GDP in **Q4 2026** is growing by **0.36%** compared with the previous quarter.
+**Latest estimate, 20 November 2026 at 11:04:** Italy's real GDP in **Q4 2026** is growing by **0.36%** compared with the previous quarter.
 Likely range (80% probability): -0.04% to 0.76%. Compared with a year earlier: 0.84%.
-The estimate is up 0.03 percentage points from last week.
+The estimate is unchanged from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
 
 <!-- release-update -->
@@ -30,23 +30,18 @@ Each bar shows how much the data published that week moved the nowcast, split by
 <details markdown="1">
 <summary>This week's changes in detail</summary>
 
-The data published this week moved the estimate by +0.03 percentage points (trade +0.04, revisions -0.02).
+The data published this week left the estimate essentially unchanged.
 
 ![Contribution of this week's data releases to the change in the nowcast](web_news_week.png)
 
 *Contributions are computed with the model: each group of releases is added in turn and the change in the average nowcast is recorded. Totals can differ from the headline figure, a median, by a few hundredths.*
 
-New data published since last week:
-
-- Industrial production (Sep 2026): +1.2% on previous month
-- Industrial production in Germany (Sep 2026): +1.3% on previous month
-- Exports (Sep 2026): -0.2% on previous month
-- Imports (Sep 2026): +3.3% on previous month
+No new monthly data were published since last week.
 </details>
 
 ## GDP growth in 2026
 
-**Estimate for 2026 as a whole: 0.87%** (80% range 0.76% to 0.97%), with the data available on 13 November 2026.
+**Estimate for 2026 as a whole: 0.87%** (80% range 0.76% to 0.97%), with the data available on 20 November 2026.
 
 If GDP stayed at its Q3 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q4 2026 adds +0.10 points.
 
@@ -103,6 +98,7 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
+| 20 November 2026 | 0.36% | -0.04% to 0.76% | 0.84% |
 | 13 November 2026 | 0.36% | -0.04% to 0.76% | 0.84% |
 | 6 November 2026 | 0.33% | -0.06% to 0.74% | 0.82% |
 | 30 October 2026 | 0.05% | -0.45% to 0.59% | 0.68% |
@@ -166,4 +162,4 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 13 Nov 2026 12:13.</small>
+<small>Page generated automatically on 20 Nov 2026 11:04.</small>
