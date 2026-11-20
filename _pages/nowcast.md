@@ -5,7 +5,7 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 20 November 2026 at 11:04:** Italy's real GDP in **Q4 2026** is growing by **0.36%** compared with the previous quarter.
+**Latest estimate, 20 November 2026 at 12:03:** Italy's real GDP in **Q4 2026** is growing by **0.36%** compared with the previous quarter.
 Likely range (80% probability): -0.04% to 0.76%. Compared with a year earlier: 0.84%.
 The estimate is unchanged from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
@@ -162,4 +162,4 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 20 Nov 2026 11:04.</small>
+<small>Page generated automatically on 20 Nov 2026 12:03.</small>
