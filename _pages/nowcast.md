@@ -5,7 +5,7 @@ permalink: /nowcast/
 author_profile: true
 ---
 
-**Latest estimate, 20 November 2026 at 12:03:** Italy's real GDP in **Q4 2026** is growing by **0.36%** compared with the previous quarter.
+**Latest estimate, 27 November 2026 at 12:11:** Italy's real GDP in **Q4 2026** is growing by **0.36%** compared with the previous quarter.
 Likely range (80% probability): -0.04% to 0.76%. Compared with a year earlier: 0.84%.
 The estimate is unchanged from last week.
 {: .notice--primary style="font-size: 1.1em !important; line-height: 1.6;"}
@@ -41,7 +41,7 @@ No new monthly data were published since last week.
 
 ## GDP growth in 2026
 
-**Estimate for 2026 as a whole: 0.87%** (80% range 0.76% to 0.97%), with the data available on 20 November 2026.
+**Estimate for 2026 as a whole: 0.87%** (80% range 0.76% to 0.97%), with the data available on 27 November 2026.
 
 If GDP stayed at its Q3 2026 level for the rest of the year, growth in 2026 would be 0.78% (the carry-over, or *crescita acquisita*, also reported by ISTAT). The nowcast for Q4 2026 adds +0.10 points.
 
@@ -98,6 +98,7 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 
 | Estimate made on | Quarter-on-quarter | 80% range | Year-on-year |
 |---|---:|---:|---:|
+| 27 November 2026 | 0.36% | -0.04% to 0.76% | 0.84% |
 | 20 November 2026 | 0.36% | -0.04% to 0.76% | 0.84% |
 | 13 November 2026 | 0.36% | -0.04% to 0.76% | 0.84% |
 | 6 November 2026 | 0.33% | -0.06% to 0.74% | 0.82% |
@@ -119,7 +120,7 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 | 13 November 2026 | Industrial production in Germany | Sep 2026 | +1.3% on previous month |
 | 13 November 2026 | Exports | Sep 2026 | -0.2% on previous month |
 | 13 November 2026 | Imports | Sep 2026 | +3.3% on previous month |
-| 6 November 2026 | Consumer confidence | Oct 2026 | -0.1 points |
+| 6 November 2026 | Consumer confidence | Oct 2026 | +0.0 points |
 | 6 November 2026 | Industrial confidence | Oct 2026 | +0.2 points |
 | 6 November 2026 | Consumer prices (HICP) | Oct 2026 | +1.2% on previous month |
 | 6 November 2026 | 1-year Euribor interest rate | Oct 2026 | -0.01 percentage points |
@@ -135,6 +136,9 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 
 | Week of | Indicator | Data for | Old value | New value |
 |---|---|---|---:|---:|
+| 27 November 2026 | Consumer confidence | Oct 2026 | -23.30 | -23.20 |
+| 27 November 2026 | Industrial confidence | Oct 2026 | -3.00 | -3.10 |
+| 27 November 2026 | Industrial confidence | Sep 2026 | -3.20 | -3.30 |
 | 16 October 2026 | Consumer prices (HICP) | Sep 2026 | 4.65 | 4.65 |
 
 </details>
@@ -162,4 +166,4 @@ Each bar shows how much the data published that week moved the nowcast, by type 
 
 *IT Now is an independent research project by [Filippo Ferroni](/) (University of Bologna). It is not an official statistic and does not represent the views of any institution. It is not investment advice.*
 
-<small>Page generated automatically on 20 Nov 2026 12:03.</small>
+<small>Page generated automatically on 27 Nov 2026 12:11.</small>
